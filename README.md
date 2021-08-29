@@ -6,8 +6,18 @@
 
 ## Table of Contents
 - [What is superCSS?](#what-is-supercss)
-- [Specifications and Docs](#specifications-and-docs)
-  - [**There are many colours, from the Python library ColorDict.**](#there-are-many-colours-from-the-python-library-colordict)
+- [**Specifications and Docs**](#specifications-and-docs)
+  - [**Classes**](#classes)
+    - [**Positional**](#positional)
+      - [Example](#example)
+    - [**Borders**](#borders)
+      - [Example](#example-1)
+    - [**Shadows**](#shadows)
+    - [**Glows**](#glows)
+    - [**Backgrounds**](#backgrounds)
+    - [**Gradients**](#gradients)
+    - [**Miscellaneous**](#miscellaneous)
+    - [**Colors**](#colors)
 
 <br />
 
@@ -41,9 +51,117 @@ To import into your file as a stylesheet, use the following in the `head` of you
 <br/>
 <br/>
 
-# Specifications and Docs
+# **Specifications and Docs**
 
-## **There are many colours, from the Python library [ColorDict](https://pypi.org/project/colordict/).**
+## **Classes**
+ + *Note:* with syntax descriptions, items in *[square brackets]* mean, put an integer here. Items in *{curly brackets}* mean to put a colour as seen at the bottom of this README.
+
+### **Positional**
+ - Flexbox syntax: `flex`
+ - Center text syntax: `center-text`
+ - Sticky element syntax: `sticky`
+ - Padding syntax: `p`[size]
+ - Margin syntax: `m`[size]
+
+#### Example
+```html
+<div class="p3">
+  <p class="m2">
+    Hello World!
+  </p>
+</div>
+```
+
+### **Borders**
+ - Round object syntax: `r`[radius]
+
+#### Example
+```html
+<div class="p3 r3">
+  <p class="m2">
+    Hello World!
+  </p>
+</div>
+```
+
+### **Shadows**
+ - Shadow syntax: `shadow-`[dispersion]
+
+```html
+<div class="p3 r3 shadow-5">
+  <p class="m2">
+    Hello World!
+  </p>
+</div>
+```
+
+### **Glows**
+ - Glowing text syntax: `glow-text-`{colour name}
+ - Glowing element syntax: `glow-`{colour name}
+
+```html
+<div class="p3 r3 shadow-5">
+  <p class="m2 glow-text-orange">
+    Hello World!
+  </p>
+</div>
+```
+
+### **Backgrounds**
+ - Background colour syntax: `bg-`{colour name}
+
+```html
+<div class="p3 r3 shadow-5 bg-orangered">
+  <p class="m2 glow-text-orange">
+    Hello World!
+  </p>
+</div>
+```
+
+### **Gradients**
+ - Background gradient syntax: `bg-grad-`{colour 1 name}{colour 2 name}
+
+```html
+<div class="p3 r3 shadow-5 bg-orangered">
+  <p class="m2 glow-text-orange">
+    Hello World!
+  </p>
+</div>
+
+<div class="p3 r3 shadow-5 bg-grad-purple-orangered">
+  <p class="m2 glow-text-orange">
+    This has a gradient!
+  </p>
+</div>
+```
+
+### **Miscellaneous**
+ - Navbar syntax: `nav`
+ - Navbar link syntax: `nav-link`
+ - Navbar Title syntax: `nav-title`
+
+```html
+<div class="p3 r3 shadow-5 bg-orangered nav sticky">
+  <p class="nav-title m2 glow-text-orange">
+    Navbar title
+  </p>
+  <p class="nav-link m2 glow-text-orange">
+    Link 1
+  </p>
+  <p class="nav-link m2 glow-text-orange">
+    Link 2
+  </p>
+</div>
+
+<div class="p3 r3 shadow-5 bg-grad-purple-orangered">
+  <p class="m2 glow-text-orange">
+    This has a gradient!
+  </p>
+</div>
+```
+
+### **Colors**
+There are many colours, from the Python library [ColorDict](https://pypi.org/project/colordict/), that are used for backgrounnd colour and gradients - here is a table.
 
 | Name                 | Color                                                             |
 | -------------------- | ----------------------------------------------------------------- |
