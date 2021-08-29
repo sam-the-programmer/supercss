@@ -1,5 +1,8 @@
-# superCSS
+![superCSS Logo](./SVGs/logo.svg)
 
+-------
+
+<br/>
 
 superCSS is a *Tailwind* inspired, utility focused CSS framework.
 Equipped with all the necessities of any web developer, superCSS

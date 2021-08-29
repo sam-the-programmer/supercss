@@ -1,17 +1,17 @@
-<svg>
-    <text textLength="270.7" font-family="'Century Gothic'" font-size="63.9" x="101" y="204.7" fill="purple">
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="120">
+    <text font-size="74.9" textLength="315.7" x="21" y="90" font-family="'Century Gothic'" fill="rgb(158, 3, 248)">
         superCSS
     </text>
-    <text textLength="270.7" font-family="'Century Gothic'" font-size="63.9" x="103" y="204.7" fill="red">
+    <text font-size="74.9" textLength="315.7" x="23" y="90" font-family="'Century Gothic'" fill="rgb(255, 0, 0)">
         superCSS
     </text>
-    <text textLength="270.7" font-family="'Century Gothic'" font-size="63.9" x="105" y="204.7" fill="orangered">
+    <text font-size="74.9" textLength="315.7" x="25" y="90" font-family="'Century Gothic'" fill="rgb(255, 68, 0)">
         superCSS
     </text>
-    <text textLength="270.7" font-family="'Century Gothic'" font-size="63.9" x="107" y="204.7" fill="darkorange">
+    <text font-size="74.9" textLength="315.7" x="27" y="90" font-family="'Century Gothic'" fill="rgb(255, 145, 0)">
         superCSS
     </text>
-    <text textLength="270.7" font-family="'Century Gothic'" font-size="63.9" x="109.5" y="204.7" fill="orange">
+    <text font-size="74.9" textLength="315.7" x="29" y="90" font-family="'Century Gothic'" fill="rgb(252, 174, 5)">
         superCSS
     </text>
 </svg>

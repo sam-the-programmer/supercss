@@ -4,7 +4,13 @@ KEYs = [i.replace("'", '') for i in KEYs]
 
 output =  """*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 .center-text {text-align: center;}
-.flex {display: flex;}"""
+.flex {display: flex;}
+.sticky {position: -webkit-sticky; position: sticky; top: 0;}
+.nav {display: flex; flex-wrap: wrap; align-items: center; justify-content: center; @apply sticky;}
+.nav-link * {text-decoration: none;}
+.nav-link {text-decoration: none}
+.nav-title {order: -1;}
+.nav-title, nav-title * {font-family: 'Century Gothic'; font-weight: bold;}"""
 
 newline = "\n"
 
@@ -21,7 +27,7 @@ for i in range(10):
 
 print("Generating shadows...")
 for i in range(5):
-    output += f".shadow-{i + 1}" + r"{box-shadow: 10px 10px " + str((i+1)/4) + r"rem;}" + newline
+    output += f".shadow-{i + 1}" + r"{box-shadow: 10px 10px " + str((i+1)) + r"rem #3333;}" + newline
 
 print("Generating glows...")
 for i, j in enumerate(RGBAs):
@@ -46,8 +52,9 @@ for i, j in enumerate(RGBAs):
     for k, l in enumerate(RGBAs):
         output += f".bg-grad-{KEYs[k]}-{KEYs[i]}" + r"{background: linear-gradient(90deg, rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + ", rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r");}" + newline
 
-
-with open("CSS/style.css", "w") as file:
+import os
+os.path.join( os.getcwd(), '..', 'CSS/super.css' )
+with open(os.path.join( os.getcwd(), "CSS", 'super.css'), "w") as file:
     file.write(output)
     
 print("""
