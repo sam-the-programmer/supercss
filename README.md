@@ -2,7 +2,7 @@
 
 -------
 
-<br/>
+<br/000000?text=+" />
 
 superCSS is a *Tailwind* inspired, utility focused CSS framework.
 Equipped with all the necessities of any web developer, superCSS
@@ -17,329 +17,329 @@ projects.
 
 There are many colours, from the Python library [ColorDict](https://pypi.org/project/colordict/).
 
-| Name                 | Color                                                                             |
-|----------------------|-----------------------------------------------------------------------------------|
-| aliceblue            | <p style="color: rgb(240.0, 248.0, 255.0, 255.0);">████████████████████</p> |
-| crimson              | <p style="color: rgb(220.0, 20.0, 60.0, 255.0);">████████████████████</p>   |
-| antiquewhite         | <p style="color: rgb(250.0, 235.0, 215.0, 255.0);">████████████████████</p> |
-| aqua                 | <p style="color: rgb(0.0, 255.0, 255.0, 255.0);">████████████████████</p>   |
-| aquamarine           | <p style="color: rgb(127.0, 255.0, 212.0, 255.0);">████████████████████</p> |
-| azure                | <p style="color: rgb(240.0, 255.0, 255.0, 255.0);">████████████████████</p> |
-| beige                | <p style="color: rgb(245.0, 245.0, 220.0, 255.0);">████████████████████</p> |
-| bisque               | <p style="color: rgb(255.0, 228.0, 196.0, 255.0);">████████████████████</p> |
-| black                | <p style="color: rgb(0.0, 0.0, 0.0, 255.0);">████████████████████</p>       |
-| blanchedalmond       | <p style="color: rgb(255.0, 235.0, 205.0, 255.0);">████████████████████</p> |
-| blue                 | <p style="color: rgb(0.0, 0.0, 255.0, 255.0);">████████████████████</p>     |
-| blueviolet           | <p style="color: rgb(138.0, 43.0, 226.0, 255.0);">████████████████████</p>  |
-| brown                | <p style="color: rgb(165.0, 42.0, 42.0, 255.0);">████████████████████</p>   |
-| burlywood            | <p style="color: rgb(222.0, 184.0, 135.0, 255.0);">████████████████████</p> |
-| cadetblue            | <p style="color: rgb(95.0, 158.0, 160.0, 255.0);">████████████████████</p>  |
-| chartreuse           | <p style="color: rgb(127.0, 255.0, 0.0, 255.0);">████████████████████</p>   |
-| chocolate            | <p style="color: rgb(210.0, 105.0, 30.0, 255.0);">████████████████████</p>  |
-| coral                | <p style="color: rgb(255.0, 127.0, 80.0, 255.0);">████████████████████</p>  |
-| cornflowerblue       | <p style="color: rgb(100.0, 149.0, 237.0, 255.0);">████████████████████</p> |
-| cornsilk             | <p style="color: rgb(255.0, 248.0, 220.0, 255.0);">████████████████████</p> |
-| cyan                 | <p style="color: rgb(0.0, 255.0, 255.0, 255.0);">████████████████████</p>   |
-| darkblue             | <p style="color: rgb(0.0, 0.0, 139.0, 255.0);">████████████████████</p>     |
-| darkcyan             | <p style="color: rgb(0.0, 139.0, 139.0, 255.0);">████████████████████</p>   |
-| darkgoldenrod        | <p style="color: rgb(184.0, 134.0, 11.0, 255.0);">████████████████████</p>  |
-| darkgray             | <p style="color: rgb(169.0, 169.0, 169.0, 255.0);">████████████████████</p> |
-| darkgreen            | <p style="color: rgb(0.0, 100.0, 0.0, 255.0);">████████████████████</p>     |
-| darkgrey             | <p style="color: rgb(169.0, 169.0, 169.0, 255.0);">████████████████████</p> |
-| darkkhaki            | <p style="color: rgb(189.0, 183.0, 107.0, 255.0);">████████████████████</p> |
-| darkmagenta          | <p style="color: rgb(139.0, 0.0, 139.0, 255.0);">████████████████████</p>   |
-| darkolivegreen       | <p style="color: rgb(85.0, 107.0, 47.0, 255.0);">████████████████████</p>   |
-| darkorange           | <p style="color: rgb(255.0, 140.0, 0.0, 255.0);">████████████████████</p>   |
-| darkorchid           | <p style="color: rgb(153.0, 50.0, 204.0, 255.0);">████████████████████</p>  |
-| darkred              | <p style="color: rgb(139.0, 0.0, 0.0, 255.0);">████████████████████</p>     |
-| darksalmon           | <p style="color: rgb(233.0, 150.0, 122.0, 255.0);">████████████████████</p> |
-| darkseagreen         | <p style="color: rgb(143.0, 188.0, 143.0, 255.0);">████████████████████</p> |
-| darkslateblue        | <p style="color: rgb(72.0, 61.0, 139.0, 255.0);">████████████████████</p>   |
-| darkslategray        | <p style="color: rgb(47.0, 79.0, 79.0, 255.0);">████████████████████</p>    |
-| darkslategrey        | <p style="color: rgb(47.0, 79.0, 79.0, 255.0);">████████████████████</p>    |
-| darkturquoise        | <p style="color: rgb(0.0, 206.0, 209.0, 255.0);">████████████████████</p>   |
-| darkviolet           | <p style="color: rgb(148.0, 0.0, 211.0, 255.0);">████████████████████</p>   |
-| deeppink             | <p style="color: rgb(255.0, 20.0, 147.0, 255.0);">████████████████████</p>  |
-| deepskyblue          | <p style="color: rgb(0.0, 191.0, 255.0, 255.0);">████████████████████</p>   |
-| dimgray              | <p style="color: rgb(105.0, 105.0, 105.0, 255.0);">████████████████████</p> |
-| dimgrey              | <p style="color: rgb(105.0, 105.0, 105.0, 255.0);">████████████████████</p> |
-| dodgerblue           | <p style="color: rgb(30.0, 144.0, 255.0, 255.0);">████████████████████</p>  |
-| firebrick            | <p style="color: rgb(178.0, 34.0, 34.0, 255.0);">████████████████████</p>   |
-| floralwhite          | <p style="color: rgb(255.0, 250.0, 240.0, 255.0);">████████████████████</p> |
-| forestgreen          | <p style="color: rgb(34.0, 139.0, 34.0, 255.0);">████████████████████</p>   |
-| fuchsia              | <p style="color: rgb(255.0, 0.0, 255.0, 255.0);">████████████████████</p>   |
-| gainsboro            | <p style="color: rgb(220.0, 220.0, 220.0, 255.0);">████████████████████</p> |
-| ghostwhite           | <p style="color: rgb(248.0, 248.0, 255.0, 255.0);">████████████████████</p> |
-| goldenrod            | <p style="color: rgb(218.0, 165.0, 32.0, 255.0);">████████████████████</p>  |
-| gold                 | <p style="color: rgb(255.0, 215.0, 0.0, 255.0);">████████████████████</p>   |
-| gray                 | <p style="color: rgb(128.0, 128.0, 128.0, 255.0);">████████████████████</p> |
-| green                | <p style="color: rgb(0.0, 128.0, 0.0, 255.0);">████████████████████</p>     |
-| greenyellow          | <p style="color: rgb(173.0, 255.0, 47.0, 255.0);">████████████████████</p>  |
-| grey                 | <p style="color: rgb(128.0, 128.0, 128.0, 255.0);">████████████████████</p> |
-| honeydew             | <p style="color: rgb(240.0, 255.0, 240.0, 255.0);">████████████████████</p> |
-| hotpink              | <p style="color: rgb(255.0, 105.0, 180.0, 255.0);">████████████████████</p> |
-| indianred            | <p style="color: rgb(205.0, 92.0, 92.0, 255.0);">████████████████████</p>   |
-| indigo               | <p style="color: rgb(75.0, 0.0, 130.0, 255.0);">████████████████████</p>    |
-| ivory                | <p style="color: rgb(255.0, 255.0, 240.0, 255.0);">████████████████████</p> |
-| khaki                | <p style="color: rgb(240.0, 230.0, 140.0, 255.0);">████████████████████</p> |
-| lavenderblush        | <p style="color: rgb(255.0, 240.0, 245.0, 255.0);">████████████████████</p> |
-| lavender             | <p style="color: rgb(230.0, 230.0, 250.0, 255.0);">████████████████████</p> |
-| lawngreen            | <p style="color: rgb(124.0, 252.0, 0.0, 255.0);">████████████████████</p>   |
-| lemonchiffon         | <p style="color: rgb(255.0, 250.0, 205.0, 255.0);">████████████████████</p> |
-| lightblue            | <p style="color: rgb(173.0, 216.0, 230.0, 255.0);">████████████████████</p> |
-| lightcoral           | <p style="color: rgb(240.0, 128.0, 128.0, 255.0);">████████████████████</p> |
-| lightcyan            | <p style="color: rgb(224.0, 255.0, 255.0, 255.0);">████████████████████</p> |
-| lightgoldenrodyellow | <p style="color: rgb(250.0, 250.0, 210.0, 255.0);">████████████████████</p> |
-| lightgray            | <p style="color: rgb(211.0, 211.0, 211.0, 255.0);">████████████████████</p> |
-| lightgreen           | <p style="color: rgb(144.0, 238.0, 144.0, 255.0);">████████████████████</p> |
-| lightgrey            | <p style="color: rgb(211.0, 211.0, 211.0, 255.0);">████████████████████</p> |
-| lightpink            | <p style="color: rgb(255.0, 182.0, 193.0, 255.0);">████████████████████</p> |
-| lightsalmon          | <p style="color: rgb(255.0, 160.0, 122.0, 255.0);">████████████████████</p> |
-| lightseagreen        | <p style="color: rgb(32.0, 178.0, 170.0, 255.0);">████████████████████</p>  |
-| lightskyblue         | <p style="color: rgb(135.0, 206.0, 250.0, 255.0);">████████████████████</p> |
-| lightslategray       | <p style="color: rgb(119.0, 136.0, 153.0, 255.0);">████████████████████</p> |
-| lightslategrey       | <p style="color: rgb(119.0, 136.0, 153.0, 255.0);">████████████████████</p> |
-| lightsteelblue       | <p style="color: rgb(176.0, 196.0, 222.0, 255.0);">████████████████████</p> |
-| lightyellow          | <p style="color: rgb(255.0, 255.0, 224.0, 255.0);">████████████████████</p> |
-| lime                 | <p style="color: rgb(0.0, 255.0, 0.0, 255.0);">████████████████████</p>     |
-| limegreen            | <p style="color: rgb(50.0, 205.0, 50.0, 255.0);">████████████████████</p>   |
-| linen                | <p style="color: rgb(250.0, 240.0, 230.0, 255.0);">████████████████████</p> |
-| magenta              | <p style="color: rgb(255.0, 0.0, 255.0, 255.0);">████████████████████</p>   |
-| maroon               | <p style="color: rgb(128.0, 0.0, 0.0, 255.0);">████████████████████</p>     |
-| mediumaquamarine     | <p style="color: rgb(102.0, 205.0, 170.0, 255.0);">████████████████████</p> |
-| mediumblue           | <p style="color: rgb(0.0, 0.0, 205.0, 255.0);">████████████████████</p>     |
-| mediumorchid         | <p style="color: rgb(186.0, 85.0, 211.0, 255.0);">████████████████████</p>  |
-| mediumpurple         | <p style="color: rgb(147.0, 112.0, 219.0, 255.0);">████████████████████</p> |
-| mediumseagreen       | <p style="color: rgb(60.0, 179.0, 113.0, 255.0);">████████████████████</p>  |
-| mediumslateblue      | <p style="color: rgb(123.0, 104.0, 238.0, 255.0);">████████████████████</p> |
-| mediumspringgreen    | <p style="color: rgb(0.0, 250.0, 154.0, 255.0);">████████████████████</p>   |
-| mediumturquoise      | <p style="color: rgb(72.0, 209.0, 204.0, 255.0);">████████████████████</p>  |
-| mediumvioletred      | <p style="color: rgb(199.0, 21.0, 133.0, 255.0);">████████████████████</p>  |
-| midnightblue         | <p style="color: rgb(25.0, 25.0, 112.0, 255.0);">████████████████████</p>   |
-| mintcream            | <p style="color: rgb(245.0, 255.0, 250.0, 255.0);">████████████████████</p> |
-| mistyrose            | <p style="color: rgb(255.0, 228.0, 225.0, 255.0);">████████████████████</p> |
-| moccasin             | <p style="color: rgb(255.0, 228.0, 181.0, 255.0);">████████████████████</p> |
-| navajowhite          | <p style="color: rgb(255.0, 222.0, 173.0, 255.0);">████████████████████</p> |
-| navy                 | <p style="color: rgb(0.0, 0.0, 128.0, 255.0);">████████████████████</p>     |
-| oldlace              | <p style="color: rgb(253.0, 245.0, 230.0, 255.0);">████████████████████</p> |
-| olive                | <p style="color: rgb(128.0, 128.0, 0.0, 255.0);">████████████████████</p>   |
-| olivedrab            | <p style="color: rgb(107.0, 142.0, 35.0, 255.0);">████████████████████</p>  |
-| orange               | <p style="color: rgb(255.0, 165.0, 0.0, 255.0);">████████████████████</p>   |
-| orangered            | <p style="color: rgb(255.0, 69.0, 0.0, 255.0);">████████████████████</p>    |
-| orchid               | <p style="color: rgb(218.0, 112.0, 214.0, 255.0);">████████████████████</p> |
-| palegoldenrod        | <p style="color: rgb(238.0, 232.0, 170.0, 255.0);">████████████████████</p> |
-| palegreen            | <p style="color: rgb(152.0, 251.0, 152.0, 255.0);">████████████████████</p> |
-| paleturquoise        | <p style="color: rgb(175.0, 238.0, 238.0, 255.0);">████████████████████</p> |
-| palevioletred        | <p style="color: rgb(219.0, 112.0, 147.0, 255.0);">████████████████████</p> |
-| papayawhip           | <p style="color: rgb(255.0, 239.0, 213.0, 255.0);">████████████████████</p> |
-| peachpuff            | <p style="color: rgb(255.0, 218.0, 185.0, 255.0);">████████████████████</p> |
-| peru                 | <p style="color: rgb(205.0, 133.0, 63.0, 255.0);">████████████████████</p>  |
-| pink                 | <p style="color: rgb(255.0, 192.0, 203.0, 255.0);">████████████████████</p> |
-| plum                 | <p style="color: rgb(221.0, 160.0, 221.0, 255.0);">████████████████████</p> |
-| powderblue           | <p style="color: rgb(176.0, 224.0, 230.0, 255.0);">████████████████████</p> |
-| purple               | <p style="color: rgb(128.0, 0.0, 128.0, 255.0);">████████████████████</p>   |
-| rebeccapurple        | <p style="color: rgb(102.0, 51.0, 153.0, 255.0);">████████████████████</p>  |
-| red                  | <p style="color: rgb(255.0, 0.0, 0.0, 255.0);">████████████████████</p>     |
-| rosybrown            | <p style="color: rgb(188.0, 143.0, 143.0, 255.0);">████████████████████</p> |
-| royalblue            | <p style="color: rgb(65.0, 105.0, 225.0, 255.0);">████████████████████</p>  |
-| saddlebrown          | <p style="color: rgb(139.0, 69.0, 19.0, 255.0);">████████████████████</p>   |
-| salmon               | <p style="color: rgb(250.0, 128.0, 114.0, 255.0);">████████████████████</p> |
-| sandybrown           | <p style="color: rgb(244.0, 164.0, 96.0, 255.0);">████████████████████</p>  |
-| seagreen             | <p style="color: rgb(46.0, 139.0, 87.0, 255.0);">████████████████████</p>   |
-| seashell             | <p style="color: rgb(255.0, 245.0, 238.0, 255.0);">████████████████████</p> |
-| sienna               | <p style="color: rgb(160.0, 82.0, 45.0, 255.0);">████████████████████</p>   |
-| silver               | <p style="color: rgb(192.0, 192.0, 192.0, 255.0);">████████████████████</p> |
-| skyblue              | <p style="color: rgb(135.0, 206.0, 235.0, 255.0);">████████████████████</p> |
-| slateblue            | <p style="color: rgb(106.0, 90.0, 205.0, 255.0);">████████████████████</p>  |
-| slategray            | <p style="color: rgb(112.0, 128.0, 144.0, 255.0);">████████████████████</p> |
-| slategrey            | <p style="color: rgb(112.0, 128.0, 144.0, 255.0);">████████████████████</p> |
-| snow                 | <p style="color: rgb(255.0, 250.0, 250.0, 255.0);">████████████████████</p> |
-| springgreen          | <p style="color: rgb(0.0, 255.0, 127.0, 255.0);">████████████████████</p>   |
-| steelblue            | <p style="color: rgb(70.0, 130.0, 180.0, 255.0);">████████████████████</p>  |
-| tan                  | <p style="color: rgb(210.0, 180.0, 140.0, 255.0);">████████████████████</p> |
-| teal                 | <p style="color: rgb(0.0, 128.0, 128.0, 255.0);">████████████████████</p>   |
-| thistle              | <p style="color: rgb(216.0, 191.0, 216.0, 255.0);">████████████████████</p> |
-| tomato               | <p style="color: rgb(255.0, 99.0, 71.0, 255.0);">████████████████████</p>   |
-| turquoise            | <p style="color: rgb(64.0, 224.0, 208.0, 255.0);">████████████████████</p>  |
-| violet               | <p style="color: rgb(238.0, 130.0, 238.0, 255.0);">████████████████████</p> |
-| wheat                | <p style="color: rgb(245.0, 222.0, 179.0, 255.0);">████████████████████</p> |
-| white                | <p style="color: rgb(255.0, 255.0, 255.0, 255.0);">████████████████████</p> |
-| whitesmoke           | <p style="color: rgb(245.0, 245.0, 245.0, 255.0);">████████████████████</p> |
-| yellow               | <p style="color: rgb(255.0, 255.0, 0.0, 255.0);">████████████████████</p>   |
-| yellowgreen          | <p style="color: rgb(154.0, 205.0, 50.0, 255.0);">████████████████████</p>  |
-| radicalred           | <p style="color: rgb(255.0, 53.0, 94.0, 255.0);">████████████████████</p>   |
-| wildwatermelon       | <p style="color: rgb(253.0, 91.0, 120.0, 255.0);">████████████████████</p>  |
-| outrageousorange     | <p style="color: rgb(255.0, 96.0, 55.0, 255.0);">████████████████████</p>   |
-| atomictangerine      | <p style="color: rgb(255.0, 153.0, 102.0, 255.0);">████████████████████</p> |
-| neoncarrot           | <p style="color: rgb(255.0, 153.0, 51.0, 255.0);">████████████████████</p>  |
-| sunglow              | <p style="color: rgb(255.0, 204.0, 51.0, 255.0);">████████████████████</p>  |
-| laserlemon           | <p style="color: rgb(255.0, 255.0, 102.0, 255.0);">████████████████████</p> |
-| electriclime         | <p style="color: rgb(204.0, 255.0, 0.0, 255.0);">████████████████████</p>   |
-| screamingreen        | <p style="color: rgb(102.0, 255.0, 102.0, 255.0);">████████████████████</p> |
-| magicmint            | <p style="color: rgb(170.0, 240.0, 209.0, 255.0);">████████████████████</p> |
-| blizzardblue         | <p style="color: rgb(80.0, 191.0, 230.0, 255.0);">████████████████████</p>  |
-| shockingpink         | <p style="color: rgb(255.0, 110.0, 255.0, 255.0);">████████████████████</p> |
-| razzledazzlerose     | <p style="color: rgb(238.0, 52.0, 210.0, 255.0);">████████████████████</p>  |
-| hotmagenta           | <p style="color: rgb(255.0, 0.0, 204.0, 255.0);">████████████████████</p>   |
-| amethyst             | <p style="color: rgb(100.0, 96.0, 154.0, 255.0);">████████████████████</p>  |
-| citrine              | <p style="color: rgb(147.0, 55.0, 9.0, 255.0);">████████████████████</p>    |
-| emerald              | <p style="color: rgb(20.0, 169.0, 137.0, 255.0);">████████████████████</p>  |
-| jade                 | <p style="color: rgb(70.0, 154.0, 132.0, 255.0);">████████████████████</p>  |
-| jasper               | <p style="color: rgb(208.0, 83.0, 64.0, 255.0);">████████████████████</p>   |
-| lapislazuli          | <p style="color: rgb(67.0, 108.0, 185.0, 255.0);">████████████████████</p>  |
-| malachite            | <p style="color: rgb(70.0, 148.0, 150.0, 255.0);">████████████████████</p>  |
-| moonstone            | <p style="color: rgb(58.0, 168.0, 193.0, 255.0);">████████████████████</p>  |
-| onyx                 | <p style="color: rgb(53.0, 56.0, 57.0, 255.0);">████████████████████</p>    |
-| peridot              | <p style="color: rgb(171.0, 173.0, 72.0, 255.0);">████████████████████</p>  |
-| pinkpearl            | <p style="color: rgb(176.0, 112.0, 128.0, 255.0);">████████████████████</p> |
-| rosequartz           | <p style="color: rgb(189.0, 85.0, 156.0, 255.0);">████████████████████</p>  |
-| ruby                 | <p style="color: rgb(170.0, 64.0, 105.0, 255.0);">████████████████████</p>  |
-| sapphire             | <p style="color: rgb(45.0, 93.0, 161.0, 255.0);">████████████████████</p>   |
-| smokeytopaz          | <p style="color: rgb(131.0, 42.0, 13.0, 255.0);">████████████████████</p>   |
-| tigerseye            | <p style="color: rgb(181.0, 105.0, 23.0, 255.0);">████████████████████</p>  |
-| sizzlingred          | <p style="color: rgb(255.0, 56.0, 85.0, 255.0);">████████████████████</p>   |
-| redsalsa             | <p style="color: rgb(253.0, 58.0, 74.0, 255.0);">████████████████████</p>   |
-| tartorange           | <p style="color: rgb(251.0, 77.0, 70.0, 255.0);">████████████████████</p>   |
-| orangesoda           | <p style="color: rgb(250.0, 91.0, 61.0, 255.0);">████████████████████</p>   |
-| brightyellow         | <p style="color: rgb(255.0, 170.0, 29.0, 255.0);">████████████████████</p>  |
-| yellowsunshine       | <p style="color: rgb(255.0, 247.0, 0.0, 255.0);">████████████████████</p>   |
-| slimygreen           | <p style="color: rgb(41.0, 150.0, 23.0, 255.0);">████████████████████</p>   |
-| greenlizard          | <p style="color: rgb(167.0, 244.0, 50.0, 255.0);">████████████████████</p>  |
-| denimblue            | <p style="color: rgb(34.0, 67.0, 182.0, 255.0);">████████████████████</p>   |
-| bluejeans            | <p style="color: rgb(93.0, 173.0, 236.0, 255.0);">████████████████████</p>  |
-| plumppurple          | <p style="color: rgb(89.0, 70.0, 178.0, 255.0);">████████████████████</p>   |
-| purpleplum           | <p style="color: rgb(156.0, 81.0, 182.0, 255.0);">████████████████████</p>  |
-| sweetbrown           | <p style="color: rgb(168.0, 55.0, 49.0, 255.0);">████████████████████</p>   |
-| brownsugar           | <p style="color: rgb(175.0, 110.0, 77.0, 255.0);">████████████████████</p>  |
-| eerieblack           | <p style="color: rgb(27.0, 27.0, 27.0, 255.0);">████████████████████</p>    |
-| blackshadows         | <p style="color: rgb(191.0, 175.0, 178.0, 255.0);">████████████████████</p> |
-| babypowder           | <p style="color: rgb(254.0, 254.0, 250.0, 255.0);">████████████████████</p> |
-| banana               | <p style="color: rgb(255.0, 209.0, 42.0, 255.0);">████████████████████</p>  |
-| blueberry            | <p style="color: rgb(79.0, 134.0, 247.0, 255.0);">████████████████████</p>  |
-| bubblegum            | <p style="color: rgb(255.0, 211.0, 248.0, 255.0);">████████████████████</p> |
-| cedarchest           | <p style="color: rgb(201.0, 90.0, 73.0, 255.0);">████████████████████</p>   |
-| cherry               | <p style="color: rgb(218.0, 38.0, 71.0, 255.0);">████████████████████</p>   |
-| coconut              | <p style="color: rgb(254.0, 254.0, 254.0, 255.0);">████████████████████</p> |
-| daffodil             | <p style="color: rgb(255.0, 255.0, 49.0, 255.0);">████████████████████</p>  |
-| dirt                 | <p style="color: rgb(183.0, 101.0, 3.0, 255.0);">████████████████████</p>   |
-| eucalyptus           | <p style="color: rgb(68.0, 215.0, 168.0, 255.0);">████████████████████</p>  |
-| freshair             | <p style="color: rgb(166.0, 231.0, 255.0, 255.0);">████████████████████</p> |
-| grape                | <p style="color: rgb(111.0, 45.0, 168.0, 255.0);">████████████████████</p>  |
-| jellybean            | <p style="color: rgb(218.0, 97.0, 78.0, 255.0);">████████████████████</p>   |
-| leatherjacket        | <p style="color: rgb(37.0, 53.0, 41.0, 255.0);">████████████████████</p>    |
-| lemon                | <p style="color: rgb(255.0, 255.0, 56.0, 255.0);">████████████████████</p>  |
-| licorice             | <p style="color: rgb(26.0, 17.0, 16.0, 255.0);">████████████████████</p>    |
-| lilac                | <p style="color: rgb(219.0, 145.0, 239.0, 255.0);">████████████████████</p> |
-| lumber               | <p style="color: rgb(255.0, 228.0, 205.0, 255.0);">████████████████████</p> |
-| newcar               | <p style="color: rgb(33.0, 79.0, 198.0, 255.0);">████████████████████</p>   |
-| peach                | <p style="color: rgb(255.0, 208.0, 185.0, 255.0);">████████████████████</p> |
-| pine                 | <p style="color: rgb(69.0, 162.0, 125.0, 255.0);">████████████████████</p>  |
-| rose                 | <p style="color: rgb(255.0, 80.0, 80.0, 255.0);">████████████████████</p>   |
-| shampoo              | <p style="color: rgb(255.0, 207.0, 241.0, 255.0);">████████████████████</p> |
-| smoke                | <p style="color: rgb(115.0, 130.0, 118.0, 255.0);">████████████████████</p> |
-| soap                 | <p style="color: rgb(206.0, 200.0, 239.0, 255.0);">████████████████████</p> |
-| strawberry           | <p style="color: rgb(252.0, 90.0, 141.0, 255.0);">████████████████████</p>  |
-| tulip                | <p style="color: rgb(255.0, 135.0, 141.0, 255.0);">████████████████████</p> |
-| alloyorange          | <p style="color: rgb(196.0, 98.0, 16.0, 255.0);">████████████████████</p>   |
-| bdazzledblue         | <p style="color: rgb(46.0, 88.0, 148.0, 255.0);">████████████████████</p>   |
-| bigdiporuby          | <p style="color: rgb(156.0, 37.0, 66.0, 255.0);">████████████████████</p>   |
-| bittersweetshimmer   | <p style="color: rgb(191.0, 79.0, 81.0, 255.0);">████████████████████</p>   |
-| blastoffbronze       | <p style="color: rgb(165.0, 113.0, 100.0, 255.0);">████████████████████</p> |
-| cybergrape           | <p style="color: rgb(88.0, 66.0, 124.0, 255.0);">████████████████████</p>   |
-| deepspacesparkle     | <p style="color: rgb(74.0, 100.0, 108.0, 255.0);">████████████████████</p>  |
-| goldfusion           | <p style="color: rgb(133.0, 117.0, 78.0, 255.0);">████████████████████</p>  |
-| illuminatingemerald  | <p style="color: rgb(49.0, 145.0, 119.0, 255.0);">████████████████████</p>  |
-| metallicseaweed      | <p style="color: rgb(10.0, 126.0, 140.0, 255.0);">████████████████████</p>  |
-| metallicsunburst     | <p style="color: rgb(156.0, 124.0, 56.0, 255.0);">████████████████████</p>  |
-| razzmicberry         | <p style="color: rgb(141.0, 78.0, 133.0, 255.0);">████████████████████</p>  |
-| sheengreen           | <p style="color: rgb(143.0, 212.0, 0.0, 255.0);">████████████████████</p>   |
-| shimmeringblush      | <p style="color: rgb(217.0, 134.0, 149.0, 255.0);">████████████████████</p> |
-| sonicsilver          | <p style="color: rgb(117.0, 117.0, 117.0, 255.0);">████████████████████</p> |
-| night                | <p style="color: rgb(11.0, 0.0, 51.0, 255.0);">████████████████████</p>     |
-| poison               | <p style="color: rgb(55.0, 0.0, 49.0, 255.0);">████████████████████</p>     |
-| antiqueruby          | <p style="color: rgb(131.0, 34.0, 50.0, 255.0);">████████████████████</p>   |
-| eaglegreen           | <p style="color: rgb(25.0, 83.0, 95.0, 255.0);">████████████████████</p>    |
-| copper               | <p style="color: rgb(206.0, 137.0, 100.0, 255.0);">████████████████████</p> |
-| keylime              | <p style="color: rgb(234.0, 242.0, 124.0, 255.0);">████████████████████</p> |
-| lichen               | <p style="color: rgb(113.0, 180.0, 141.0, 255.0);">████████████████████</p> |
-| iris                 | <p style="color: rgb(69.0, 74.0, 222.0, 255.0);">████████████████████</p>   |
-| cerulean             | <p style="color: rgb(155.0, 183.0, 212.0, 255.0);">████████████████████</p> |
-| fuchsiarose          | <p style="color: rgb(199.0, 67.0, 117.0, 255.0);">████████████████████</p>  |
-| truered              | <p style="color: rgb(191.0, 25.0, 50.0, 255.0);">████████████████████</p>   |
-| aquasky              | <p style="color: rgb(123.0, 196.0, 196.0, 255.0);">████████████████████</p> |
-| tigerlily            | <p style="color: rgb(226.0, 88.0, 62.0, 255.0);">████████████████████</p>   |
-| blueturquoise        | <p style="color: rgb(83.0, 176.0, 174.0, 255.0);">████████████████████</p>  |
-| sanddollar           | <p style="color: rgb(222.0, 205.0, 190.0, 255.0);">████████████████████</p> |
-| chilipepper          | <p style="color: rgb(155.0, 27.0, 48.0, 255.0);">████████████████████</p>   |
-| blueiris             | <p style="color: rgb(90.0, 91.0, 159.0, 255.0);">████████████████████</p>   |
-| mimosa               | <p style="color: rgb(240.0, 192.0, 90.0, 255.0);">████████████████████</p>  |
-| pantoneturquoise     | <p style="color: rgb(69.0, 181.0, 170.0, 255.0);">████████████████████</p>  |
-| honeysuckle          | <p style="color: rgb(217.0, 79.0, 112.0, 255.0);">████████████████████</p>  |
-| tangerinetango       | <p style="color: rgb(221.0, 65.0, 36.0, 255.0);">████████████████████</p>   |
-| pantoneemerald       | <p style="color: rgb(0.0, 148.0, 115.0, 255.0);">████████████████████</p>   |
-| radiantorchid        | <p style="color: rgb(177.0, 99.0, 163.0, 255.0);">████████████████████</p>  |
-| marsala              | <p style="color: rgb(149.0, 82.0, 81.0, 255.0);">████████████████████</p>   |
-| pantonerosequartz    | <p style="color: rgb(247.0, 202.0, 201.0, 255.0);">████████████████████</p> |
-| serenity             | <p style="color: rgb(146.0, 168.0, 209.0, 255.0);">████████████████████</p> |
-| greenery             | <p style="color: rgb(136.0, 176.0, 75.0, 255.0);">████████████████████</p>  |
-| ultraviolet          | <p style="color: rgb(95.0, 75.0, 139.0, 255.0);">████████████████████</p>   |
-| livingcoral          | <p style="color: rgb(255.0, 111.0, 97.0, 255.0);">████████████████████</p>  |
-| classicblue          | <p style="color: rgb(15.0, 76.0, 129.0, 255.0);">████████████████████</p>   |
-| alienarmpit          | <p style="color: rgb(132.0, 222.0, 2.0, 255.0);">████████████████████</p>   |
-| bigfootfeet          | <p style="color: rgb(232.0, 142.0, 90.0, 255.0);">████████████████████</p>  |
-| boogerbuster         | <p style="color: rgb(221.0, 226.0, 106.0, 255.0);">████████████████████</p> |
-| dingydungeon         | <p style="color: rgb(197.0, 49.0, 81.0, 255.0);">████████████████████</p>   |
-| gargoylegas          | <p style="color: rgb(255.0, 223.0, 70.0, 255.0);">████████████████████</p>  |
-| giantsclub           | <p style="color: rgb(176.0, 92.0, 82.0, 255.0);">████████████████████</p>   |
-| magicpotion          | <p style="color: rgb(255.0, 68.0, 102.0, 255.0);">████████████████████</p>  |
-| mummystomb           | <p style="color: rgb(130.0, 142.0, 132.0, 255.0);">████████████████████</p> |
-| ogreodor             | <p style="color: rgb(253.0, 82.0, 64.0, 255.0);">████████████████████</p>   |
-| pixiepowder          | <p style="color: rgb(57.0, 18.0, 133.0, 255.0);">████████████████████</p>   |
-| princessperfume      | <p style="color: rgb(255.0, 133.0, 207.0, 255.0);">████████████████████</p> |
-| sasquatchsocks       | <p style="color: rgb(255.0, 70.0, 129.0, 255.0);">████████████████████</p>  |
-| seaserpent           | <p style="color: rgb(75.0, 199.0, 207.0, 255.0);">████████████████████</p>  |
-| smashedpumpkin       | <p style="color: rgb(255.0, 109.0, 58.0, 255.0);">████████████████████</p>  |
-| sunburntcyclops      | <p style="color: rgb(255.0, 64.0, 76.0, 255.0);">████████████████████</p>   |
-| winterwizard         | <p style="color: rgb(160.0, 230.0, 255.0, 255.0);">████████████████████</p> |
-| aztecgold            | <p style="color: rgb(195.0, 153.0, 83.0, 255.0);">████████████████████</p>  |
-| burnishedbrown       | <p style="color: rgb(161.0, 122.0, 116.0, 255.0);">████████████████████</p> |
-| ceruleanfrost        | <p style="color: rgb(109.0, 155.0, 195.0, 255.0);">████████████████████</p> |
-| cinnamonsatin        | <p style="color: rgb(205.0, 96.0, 126.0, 255.0);">████████████████████</p>  |
-| copperpenny          | <p style="color: rgb(173.0, 111.0, 105.0, 255.0);">████████████████████</p> |
-| cosmiccobalt         | <p style="color: rgb(46.0, 45.0, 136.0, 255.0);">████████████████████</p>   |
-| glossygrape          | <p style="color: rgb(171.0, 146.0, 179.0, 255.0);">████████████████████</p> |
-| granitegray          | <p style="color: rgb(103.0, 103.0, 103.0, 255.0);">████████████████████</p> |
-| greensheen           | <p style="color: rgb(110.0, 174.0, 161.0, 255.0);">████████████████████</p> |
-| lilacluster          | <p style="color: rgb(174.0, 152.0, 170.0, 255.0);">████████████████████</p> |
-| mistymoss            | <p style="color: rgb(187.0, 180.0, 119.0, 255.0);">████████████████████</p> |
-| mysticmaroon         | <p style="color: rgb(173.0, 67.0, 121.0, 255.0);">████████████████████</p>  |
-| pearlypurple         | <p style="color: rgb(183.0, 104.0, 162.0, 255.0);">████████████████████</p> |
-| pewterblue           | <p style="color: rgb(139.0, 168.0, 183.0, 255.0);">████████████████████</p> |
-| polishedpine         | <p style="color: rgb(93.0, 164.0, 147.0, 255.0);">████████████████████</p>  |
-| quicksilver          | <p style="color: rgb(166.0, 166.0, 166.0, 255.0);">████████████████████</p> |
-| rosedust             | <p style="color: rgb(158.0, 94.0, 111.0, 255.0);">████████████████████</p>  |
-| rustyred             | <p style="color: rgb(218.0, 44.0, 67.0, 255.0);">████████████████████</p>   |
-| shadowblue           | <p style="color: rgb(119.0, 139.0, 165.0, 255.0);">████████████████████</p> |
-| shinyshamrock        | <p style="color: rgb(95.0, 167.0, 120.0, 255.0);">████████████████████</p>  |
-| steelteal            | <p style="color: rgb(95.0, 138.0, 139.0, 255.0);">████████████████████</p>  |
-| sugarplum            | <p style="color: rgb(145.0, 78.0, 117.0, 255.0);">████████████████████</p>  |
-| twilightlavender     | <p style="color: rgb(138.0, 73.0, 107.0, 255.0);">████████████████████</p>  |
-| wintergreendream     | <p style="color: rgb(86.0, 136.0, 125.0, 255.0);">████████████████████</p>  |
-| brazil               | <p style="color: rgb(0.0, 155.0, 58.0, 255.0);">████████████████████</p>    |
-| colombia             | <p style="color: rgb(252.0, 209.0, 22.0, 255.0);">████████████████████</p>  |
-| argentina            | <p style="color: rgb(116.0, 172.0, 223.0, 255.0);">████████████████████</p> |
-| palau                | <p style="color: rgb(0.0, 153.0, 255.0, 255.0);">████████████████████</p>   |
-| vanuatu              | <p style="color: rgb(210.0, 16.0, 52.0, 255.0);">████████████████████</p>   |
-| solomon              | <p style="color: rgb(33.0, 91.0, 51.0, 255.0);">████████████████████</p>    |
-| usa                  | <p style="color: rgb(60.0, 59.0, 110.0, 255.0);">████████████████████</p>   |
-| bahamas              | <p style="color: rgb(0.0, 119.0, 139.0, 255.0);">████████████████████</p>   |
-| panama               | <p style="color: rgb(218.0, 18.0, 26.0, 255.0);">████████████████████</p>   |
-| ireland              | <p style="color: rgb(255.0, 136.0, 62.0, 255.0);">████████████████████</p>  |
-| belgium              | <p style="color: rgb(250.0, 224.0, 66.0, 255.0);">████████████████████</p>  |
-| latvia               | <p style="color: rgb(158.0, 48.0, 57.0, 255.0);">████████████████████</p>   |
-| india                | <p style="color: rgb(255.0, 154.0, 48.0, 255.0);">████████████████████</p>  |
-| macau                | <p style="color: rgb(15.0, 117.0, 98.0, 255.0);">████████████████████</p>   |
-| china                | <p style="color: rgb(222.0, 41.0, 16.0, 255.0);">████████████████████</p>   |
-| southafrica          | <p style="color: rgb(0.0, 119.0, 73.0, 255.0);">████████████████████</p>    |
-| madagascar           | <p style="color: rgb(252.0, 61.0, 50.0, 255.0);">████████████████████</p>   |
-| seychelles           | <p style="color: rgb(252.0, 216.0, 86.0, 255.0);">████████████████████</p>  |
+| Name                 | Color                                                             |
+| -------------------- | ----------------------------------------------------------------- |
+| aliceblue            | <img src="https://via.placeholder.com/15/f0f8ff/000000?text=+" /> |
+| antiquewhite         | <img src="https://via.placeholder.com/15/faebd7/000000?text=+" /> |
+| aqua                 | <img src="https://via.placeholder.com/15/0ffff/000000?text=+" />  |
+| aquamarine           | <img src="https://via.placeholder.com/15/7fffd4/000000?text=+" /> |
+| azure                | <img src="https://via.placeholder.com/15/f0ffff/000000?text=+" /> |
+| beige                | <img src="https://via.placeholder.com/15/f5f5dc/000000?text=+" /> |
+| bisque               | <img src="https://via.placeholder.com/15/ffe4c4/000000?text=+" /> |
+| black                | <img src="https://via.placeholder.com/15/000/000000?text=+" />    |
+| blanchedalmond       | <img src="https://via.placeholder.com/15/ffebcd/000000?text=+" /> |
+| blue                 | <img src="https://via.placeholder.com/15/00ff/000000?text=+" />   |
+| blueviolet           | <img src="https://via.placeholder.com/15/8a2be2/000000?text=+" /> |
+| brown                | <img src="https://via.placeholder.com/15/a52a2a/000000?text=+" /> |
+| burlywood            | <img src="https://via.placeholder.com/15/deb887/000000?text=+" /> |
+| cadetblue            | <img src="https://via.placeholder.com/15/5f9ea0/000000?text=+" /> |
+| chartreuse           | <img src="https://via.placeholder.com/15/7fff0/000000?text=+" />  |
+| chocolate            | <img src="https://via.placeholder.com/15/d2691e/000000?text=+" /> |
+| coral                | <img src="https://via.placeholder.com/15/ff7f50/000000?text=+" /> |
+| cornflowerblue       | <img src="https://via.placeholder.com/15/6495ed/000000?text=+" /> |
+| cornsilk             | <img src="https://via.placeholder.com/15/fff8dc/000000?text=+" /> |
+| crimson              | <img src="https://via.placeholder.com/15/dc143c/000000?text=+" /> |
+| cyan                 | <img src="https://via.placeholder.com/15/0ffff/000000?text=+" />  |
+| darkblue             | <img src="https://via.placeholder.com/15/008b/000000?text=+" />   |
+| darkcyan             | <img src="https://via.placeholder.com/15/08b8b/000000?text=+" />  |
+| darkgoldenrod        | <img src="https://via.placeholder.com/15/b886b/000000?text=+" />  |
+| darkgray             | <img src="https://via.placeholder.com/15/a9a9a9/000000?text=+" /> |
+| darkgreen            | <img src="https://via.placeholder.com/15/0640/000000?text=+" />   |
+| darkgrey             | <img src="https://via.placeholder.com/15/a9a9a9/000000?text=+" /> |
+| darkkhaki            | <img src="https://via.placeholder.com/15/bdb76b/000000?text=+" /> |
+| darkmagenta          | <img src="https://via.placeholder.com/15/8b08b/000000?text=+" />  |
+| darkolivegreen       | <img src="https://via.placeholder.com/15/556b2f/000000?text=+" /> |
+| darkorange           | <img src="https://via.placeholder.com/15/ff8c0/000000?text=+" />  |
+| darkorchid           | <img src="https://via.placeholder.com/15/9932cc/000000?text=+" /> |
+| darkred              | <img src="https://via.placeholder.com/15/8b00/000000?text=+" />   |
+| darksalmon           | <img src="https://via.placeholder.com/15/e9967a/000000?text=+" /> |
+| darkseagreen         | <img src="https://via.placeholder.com/15/8fbc8f/000000?text=+" /> |
+| darkslateblue        | <img src="https://via.placeholder.com/15/483d8b/000000?text=+" /> |
+| darkslategray        | <img src="https://via.placeholder.com/15/2f4f4f/000000?text=+" /> |
+| darkslategrey        | <img src="https://via.placeholder.com/15/2f4f4f/000000?text=+" /> |
+| darkturquoise        | <img src="https://via.placeholder.com/15/0ced1/000000?text=+" />  |
+| darkviolet           | <img src="https://via.placeholder.com/15/940d3/000000?text=+" />  |
+| deeppink             | <img src="https://via.placeholder.com/15/ff1493/000000?text=+" /> |
+| deepskyblue          | <img src="https://via.placeholder.com/15/0bfff/000000?text=+" />  |
+| dimgray              | <img src="https://via.placeholder.com/15/696969/000000?text=+" /> |
+| dimgrey              | <img src="https://via.placeholder.com/15/696969/000000?text=+" /> |
+| dodgerblue           | <img src="https://via.placeholder.com/15/1e90ff/000000?text=+" /> |
+| firebrick            | <img src="https://via.placeholder.com/15/b22222/000000?text=+" /> |
+| floralwhite          | <img src="https://via.placeholder.com/15/fffaf0/000000?text=+" /> |
+| forestgreen          | <img src="https://via.placeholder.com/15/228b22/000000?text=+" /> |
+| fuchsia              | <img src="https://via.placeholder.com/15/ff0ff/000000?text=+" />  |
+| gainsboro            | <img src="https://via.placeholder.com/15/dcdcdc/000000?text=+" /> |
+| ghostwhite           | <img src="https://via.placeholder.com/15/f8f8ff/000000?text=+" /> |
+| goldenrod            | <img src="https://via.placeholder.com/15/daa520/000000?text=+" /> |
+| gold                 | <img src="https://via.placeholder.com/15/ffd70/000000?text=+" />  |
+| gray                 | <img src="https://via.placeholder.com/15/808080/000000?text=+" /> |
+| green                | <img src="https://via.placeholder.com/15/0800/000000?text=+" />   |
+| greenyellow          | <img src="https://via.placeholder.com/15/adff2f/000000?text=+" /> |
+| grey                 | <img src="https://via.placeholder.com/15/808080/000000?text=+" /> |
+| honeydew             | <img src="https://via.placeholder.com/15/f0fff0/000000?text=+" /> |
+| hotpink              | <img src="https://via.placeholder.com/15/ff69b4/000000?text=+" /> |
+| indianred            | <img src="https://via.placeholder.com/15/cd5c5c/000000?text=+" /> |
+| indigo               | <img src="https://via.placeholder.com/15/4b082/000000?text=+" />  |
+| ivory                | <img src="https://via.placeholder.com/15/fffff0/000000?text=+" /> |
+| khaki                | <img src="https://via.placeholder.com/15/f0e68c/000000?text=+" /> |
+| lavenderblush        | <img src="https://via.placeholder.com/15/fff0f5/000000?text=+" /> |
+| lavender             | <img src="https://via.placeholder.com/15/e6e6fa/000000?text=+" /> |
+| lawngreen            | <img src="https://via.placeholder.com/15/7cfc0/000000?text=+" />  |
+| lemonchiffon         | <img src="https://via.placeholder.com/15/fffacd/000000?text=+" /> |
+| lightblue            | <img src="https://via.placeholder.com/15/add8e6/000000?text=+" /> |
+| lightcoral           | <img src="https://via.placeholder.com/15/f08080/000000?text=+" /> |
+| lightcyan            | <img src="https://via.placeholder.com/15/e0ffff/000000?text=+" /> |
+| lightgoldenrodyellow | <img src="https://via.placeholder.com/15/fafad2/000000?text=+" /> |
+| lightgray            | <img src="https://via.placeholder.com/15/d3d3d3/000000?text=+" /> |
+| lightgreen           | <img src="https://via.placeholder.com/15/90ee90/000000?text=+" /> |
+| lightgrey            | <img src="https://via.placeholder.com/15/d3d3d3/000000?text=+" /> |
+| lightpink            | <img src="https://via.placeholder.com/15/ffb6c1/000000?text=+" /> |
+| lightsalmon          | <img src="https://via.placeholder.com/15/ffa07a/000000?text=+" /> |
+| lightseagreen        | <img src="https://via.placeholder.com/15/20b2aa/000000?text=+" /> |
+| lightskyblue         | <img src="https://via.placeholder.com/15/87cefa/000000?text=+" /> |
+| lightslategray       | <img src="https://via.placeholder.com/15/778899/000000?text=+" /> |
+| lightslategrey       | <img src="https://via.placeholder.com/15/778899/000000?text=+" /> |
+| lightsteelblue       | <img src="https://via.placeholder.com/15/b0c4de/000000?text=+" /> |
+| lightyellow          | <img src="https://via.placeholder.com/15/ffffe0/000000?text=+" /> |
+| lime                 | <img src="https://via.placeholder.com/15/0ff0/000000?text=+" />   |
+| limegreen            | <img src="https://via.placeholder.com/15/32cd32/000000?text=+" /> |
+| linen                | <img src="https://via.placeholder.com/15/faf0e6/000000?text=+" /> |
+| magenta              | <img src="https://via.placeholder.com/15/ff0ff/000000?text=+" />  |
+| maroon               | <img src="https://via.placeholder.com/15/8000/000000?text=+" />   |
+| mediumaquamarine     | <img src="https://via.placeholder.com/15/66cdaa/000000?text=+" /> |
+| mediumblue           | <img src="https://via.placeholder.com/15/00cd/000000?text=+" />   |
+| mediumorchid         | <img src="https://via.placeholder.com/15/ba55d3/000000?text=+" /> |
+| mediumpurple         | <img src="https://via.placeholder.com/15/9370db/000000?text=+" /> |
+| mediumseagreen       | <img src="https://via.placeholder.com/15/3cb371/000000?text=+" /> |
+| mediumslateblue      | <img src="https://via.placeholder.com/15/7b68ee/000000?text=+" /> |
+| mediumspringgreen    | <img src="https://via.placeholder.com/15/0fa9a/000000?text=+" />  |
+| mediumturquoise      | <img src="https://via.placeholder.com/15/48d1cc/000000?text=+" /> |
+| mediumvioletred      | <img src="https://via.placeholder.com/15/c71585/000000?text=+" /> |
+| midnightblue         | <img src="https://via.placeholder.com/15/191970/000000?text=+" /> |
+| mintcream            | <img src="https://via.placeholder.com/15/f5fffa/000000?text=+" /> |
+| mistyrose            | <img src="https://via.placeholder.com/15/ffe4e1/000000?text=+" /> |
+| moccasin             | <img src="https://via.placeholder.com/15/ffe4b5/000000?text=+" /> |
+| navajowhite          | <img src="https://via.placeholder.com/15/ffdead/000000?text=+" /> |
+| navy                 | <img src="https://via.placeholder.com/15/0080/000000?text=+" />   |
+| oldlace              | <img src="https://via.placeholder.com/15/fdf5e6/000000?text=+" /> |
+| olive                | <img src="https://via.placeholder.com/15/80800/000000?text=+" />  |
+| olivedrab            | <img src="https://via.placeholder.com/15/6b8e23/000000?text=+" /> |
+| orange               | <img src="https://via.placeholder.com/15/ffa50/000000?text=+" />  |
+| orangered            | <img src="https://via.placeholder.com/15/ff450/000000?text=+" />  |
+| orchid               | <img src="https://via.placeholder.com/15/da70d6/000000?text=+" /> |
+| palegoldenrod        | <img src="https://via.placeholder.com/15/eee8aa/000000?text=+" /> |
+| palegreen            | <img src="https://via.placeholder.com/15/98fb98/000000?text=+" /> |
+| paleturquoise        | <img src="https://via.placeholder.com/15/afeeee/000000?text=+" /> |
+| palevioletred        | <img src="https://via.placeholder.com/15/db7093/000000?text=+" /> |
+| papayawhip           | <img src="https://via.placeholder.com/15/ffefd5/000000?text=+" /> |
+| peachpuff            | <img src="https://via.placeholder.com/15/ffdab9/000000?text=+" /> |
+| peru                 | <img src="https://via.placeholder.com/15/cd853f/000000?text=+" /> |
+| pink                 | <img src="https://via.placeholder.com/15/ffc0cb/000000?text=+" /> |
+| plum                 | <img src="https://via.placeholder.com/15/dda0dd/000000?text=+" /> |
+| powderblue           | <img src="https://via.placeholder.com/15/b0e0e6/000000?text=+" /> |
+| purple               | <img src="https://via.placeholder.com/15/80080/000000?text=+" />  |
+| rebeccapurple        | <img src="https://via.placeholder.com/15/663399/000000?text=+" /> |
+| red                  | <img src="https://via.placeholder.com/15/ff00/000000?text=+" />   |
+| rosybrown            | <img src="https://via.placeholder.com/15/bc8f8f/000000?text=+" /> |
+| royalblue            | <img src="https://via.placeholder.com/15/4169e1/000000?text=+" /> |
+| saddlebrown          | <img src="https://via.placeholder.com/15/8b4513/000000?text=+" /> |
+| salmon               | <img src="https://via.placeholder.com/15/fa8072/000000?text=+" /> |
+| sandybrown           | <img src="https://via.placeholder.com/15/f4a460/000000?text=+" /> |
+| seagreen             | <img src="https://via.placeholder.com/15/2e8b57/000000?text=+" /> |
+| seashell             | <img src="https://via.placeholder.com/15/fff5ee/000000?text=+" /> |
+| sienna               | <img src="https://via.placeholder.com/15/a0522d/000000?text=+" /> |
+| silver               | <img src="https://via.placeholder.com/15/c0c0c0/000000?text=+" /> |
+| skyblue              | <img src="https://via.placeholder.com/15/87ceeb/000000?text=+" /> |
+| slateblue            | <img src="https://via.placeholder.com/15/6a5acd/000000?text=+" /> |
+| slategray            | <img src="https://via.placeholder.com/15/708090/000000?text=+" /> |
+| slategrey            | <img src="https://via.placeholder.com/15/708090/000000?text=+" /> |
+| snow                 | <img src="https://via.placeholder.com/15/fffafa/000000?text=+" /> |
+| springgreen          | <img src="https://via.placeholder.com/15/0ff7f/000000?text=+" />  |
+| steelblue            | <img src="https://via.placeholder.com/15/4682b4/000000?text=+" /> |
+| tan                  | <img src="https://via.placeholder.com/15/d2b48c/000000?text=+" /> |
+| teal                 | <img src="https://via.placeholder.com/15/08080/000000?text=+" />  |
+| thistle              | <img src="https://via.placeholder.com/15/d8bfd8/000000?text=+" /> |
+| tomato               | <img src="https://via.placeholder.com/15/ff6347/000000?text=+" /> |
+| turquoise            | <img src="https://via.placeholder.com/15/40e0d0/000000?text=+" /> |
+| violet               | <img src="https://via.placeholder.com/15/ee82ee/000000?text=+" /> |
+| wheat                | <img src="https://via.placeholder.com/15/f5deb3/000000?text=+" /> |
+| white                | <img src="https://via.placeholder.com/15/ffffff/000000?text=+" /> |
+| whitesmoke           | <img src="https://via.placeholder.com/15/f5f5f5/000000?text=+" /> |
+| yellow               | <img src="https://via.placeholder.com/15/ffff0/000000?text=+" />  |
+| yellowgreen          | <img src="https://via.placeholder.com/15/9acd32/000000?text=+" /> |
+| radicalred           | <img src="https://via.placeholder.com/15/ff355e/000000?text=+" /> |
+| wildwatermelon       | <img src="https://via.placeholder.com/15/fd5b78/000000?text=+" /> |
+| outrageousorange     | <img src="https://via.placeholder.com/15/ff6037/000000?text=+" /> |
+| atomictangerine      | <img src="https://via.placeholder.com/15/ff9966/000000?text=+" /> |
+| neoncarrot           | <img src="https://via.placeholder.com/15/ff9933/000000?text=+" /> |
+| sunglow              | <img src="https://via.placeholder.com/15/ffcc33/000000?text=+" /> |
+| laserlemon           | <img src="https://via.placeholder.com/15/ffff66/000000?text=+" /> |
+| electriclime         | <img src="https://via.placeholder.com/15/ccff0/000000?text=+" />  |
+| screamingreen        | <img src="https://via.placeholder.com/15/66ff66/000000?text=+" /> |
+| magicmint            | <img src="https://via.placeholder.com/15/aaf0d1/000000?text=+" /> |
+| blizzardblue         | <img src="https://via.placeholder.com/15/50bfe6/000000?text=+" /> |
+| shockingpink         | <img src="https://via.placeholder.com/15/ff6eff/000000?text=+" /> |
+| razzledazzlerose     | <img src="https://via.placeholder.com/15/ee34d2/000000?text=+" /> |
+| hotmagenta           | <img src="https://via.placeholder.com/15/ff0cc/000000?text=+" />  |
+| amethyst             | <img src="https://via.placeholder.com/15/64609a/000000?text=+" /> |
+| citrine              | <img src="https://via.placeholder.com/15/93379/000000?text=+" />  |
+| emerald              | <img src="https://via.placeholder.com/15/14a989/000000?text=+" /> |
+| jade                 | <img src="https://via.placeholder.com/15/469a84/000000?text=+" /> |
+| jasper               | <img src="https://via.placeholder.com/15/d05340/000000?text=+" /> |
+| lapislazuli          | <img src="https://via.placeholder.com/15/436cb9/000000?text=+" /> |
+| malachite            | <img src="https://via.placeholder.com/15/469496/000000?text=+" /> |
+| moonstone            | <img src="https://via.placeholder.com/15/3aa8c1/000000?text=+" /> |
+| onyx                 | <img src="https://via.placeholder.com/15/353839/000000?text=+" /> |
+| peridot              | <img src="https://via.placeholder.com/15/abad48/000000?text=+" /> |
+| pinkpearl            | <img src="https://via.placeholder.com/15/b07080/000000?text=+" /> |
+| rosequartz           | <img src="https://via.placeholder.com/15/bd559c/000000?text=+" /> |
+| ruby                 | <img src="https://via.placeholder.com/15/aa4069/000000?text=+" /> |
+| sapphire             | <img src="https://via.placeholder.com/15/2d5da1/000000?text=+" /> |
+| smokeytopaz          | <img src="https://via.placeholder.com/15/832ad/000000?text=+" />  |
+| tigerseye            | <img src="https://via.placeholder.com/15/b56917/000000?text=+" /> |
+| sizzlingred          | <img src="https://via.placeholder.com/15/ff3855/000000?text=+" /> |
+| redsalsa             | <img src="https://via.placeholder.com/15/fd3a4a/000000?text=+" /> |
+| tartorange           | <img src="https://via.placeholder.com/15/fb4d46/000000?text=+" /> |
+| orangesoda           | <img src="https://via.placeholder.com/15/fa5b3d/000000?text=+" /> |
+| brightyellow         | <img src="https://via.placeholder.com/15/ffaa1d/000000?text=+" /> |
+| yellowsunshine       | <img src="https://via.placeholder.com/15/fff70/000000?text=+" />  |
+| slimygreen           | <img src="https://via.placeholder.com/15/299617/000000?text=+" /> |
+| greenlizard          | <img src="https://via.placeholder.com/15/a7f432/000000?text=+" /> |
+| denimblue            | <img src="https://via.placeholder.com/15/2243b6/000000?text=+" /> |
+| bluejeans            | <img src="https://via.placeholder.com/15/5dadec/000000?text=+" /> |
+| plumppurple          | <img src="https://via.placeholder.com/15/5946b2/000000?text=+" /> |
+| purpleplum           | <img src="https://via.placeholder.com/15/9c51b6/000000?text=+" /> |
+| sweetbrown           | <img src="https://via.placeholder.com/15/a83731/000000?text=+" /> |
+| brownsugar           | <img src="https://via.placeholder.com/15/af6e4d/000000?text=+" /> |
+| eerieblack           | <img src="https://via.placeholder.com/15/1b1b1b/000000?text=+" /> |
+| blackshadows         | <img src="https://via.placeholder.com/15/bfafb2/000000?text=+" /> |
+| babypowder           | <img src="https://via.placeholder.com/15/fefefa/000000?text=+" /> |
+| banana               | <img src="https://via.placeholder.com/15/ffd12a/000000?text=+" /> |
+| blueberry            | <img src="https://via.placeholder.com/15/4f86f7/000000?text=+" /> |
+| bubblegum            | <img src="https://via.placeholder.com/15/ffd3f8/000000?text=+" /> |
+| cedarchest           | <img src="https://via.placeholder.com/15/c95a49/000000?text=+" /> |
+| cherry               | <img src="https://via.placeholder.com/15/da2647/000000?text=+" /> |
+| coconut              | <img src="https://via.placeholder.com/15/fefefe/000000?text=+" /> |
+| daffodil             | <img src="https://via.placeholder.com/15/ffff31/000000?text=+" /> |
+| dirt                 | <img src="https://via.placeholder.com/15/b7653/000000?text=+" />  |
+| eucalyptus           | <img src="https://via.placeholder.com/15/44d7a8/000000?text=+" /> |
+| freshair             | <img src="https://via.placeholder.com/15/a6e7ff/000000?text=+" /> |
+| grape                | <img src="https://via.placeholder.com/15/6f2da8/000000?text=+" /> |
+| jellybean            | <img src="https://via.placeholder.com/15/da614e/000000?text=+" /> |
+| leatherjacket        | <img src="https://via.placeholder.com/15/253529/000000?text=+" /> |
+| lemon                | <img src="https://via.placeholder.com/15/ffff38/000000?text=+" /> |
+| licorice             | <img src="https://via.placeholder.com/15/1a1110/000000?text=+" /> |
+| lilac                | <img src="https://via.placeholder.com/15/db91ef/000000?text=+" /> |
+| lumber               | <img src="https://via.placeholder.com/15/ffe4cd/000000?text=+" /> |
+| newcar               | <img src="https://via.placeholder.com/15/214fc6/000000?text=+" /> |
+| peach                | <img src="https://via.placeholder.com/15/ffd0b9/000000?text=+" /> |
+| pine                 | <img src="https://via.placeholder.com/15/45a27d/000000?text=+" /> |
+| rose                 | <img src="https://via.placeholder.com/15/ff5050/000000?text=+" /> |
+| shampoo              | <img src="https://via.placeholder.com/15/ffcff1/000000?text=+" /> |
+| smoke                | <img src="https://via.placeholder.com/15/738276/000000?text=+" /> |
+| soap                 | <img src="https://via.placeholder.com/15/cec8ef/000000?text=+" /> |
+| strawberry           | <img src="https://via.placeholder.com/15/fc5a8d/000000?text=+" /> |
+| tulip                | <img src="https://via.placeholder.com/15/ff878d/000000?text=+" /> |
+| alloyorange          | <img src="https://via.placeholder.com/15/c46210/000000?text=+" /> |
+| bdazzledblue         | <img src="https://via.placeholder.com/15/2e5894/000000?text=+" /> |
+| bigdiporuby          | <img src="https://via.placeholder.com/15/9c2542/000000?text=+" /> |
+| bittersweetshimmer   | <img src="https://via.placeholder.com/15/bf4f51/000000?text=+" /> |
+| blastoffbronze       | <img src="https://via.placeholder.com/15/a57164/000000?text=+" /> |
+| cybergrape           | <img src="https://via.placeholder.com/15/58427c/000000?text=+" /> |
+| deepspacesparkle     | <img src="https://via.placeholder.com/15/4a646c/000000?text=+" /> |
+| goldfusion           | <img src="https://via.placeholder.com/15/85754e/000000?text=+" /> |
+| illuminatingemerald  | <img src="https://via.placeholder.com/15/319177/000000?text=+" /> |
+| metallicseaweed      | <img src="https://via.placeholder.com/15/a7e8c/000000?text=+" />  |
+| metallicsunburst     | <img src="https://via.placeholder.com/15/9c7c38/000000?text=+" /> |
+| razzmicberry         | <img src="https://via.placeholder.com/15/8d4e85/000000?text=+" /> |
+| sheengreen           | <img src="https://via.placeholder.com/15/8fd40/000000?text=+" />  |
+| shimmeringblush      | <img src="https://via.placeholder.com/15/d98695/000000?text=+" /> |
+| sonicsilver          | <img src="https://via.placeholder.com/15/757575/000000?text=+" /> |
+| night                | <img src="https://via.placeholder.com/15/b033/000000?text=+" />   |
+| poison               | <img src="https://via.placeholder.com/15/37031/000000?text=+" />  |
+| antiqueruby          | <img src="https://via.placeholder.com/15/832232/000000?text=+" /> |
+| eaglegreen           | <img src="https://via.placeholder.com/15/19535f/000000?text=+" /> |
+| copper               | <img src="https://via.placeholder.com/15/ce8964/000000?text=+" /> |
+| keylime              | <img src="https://via.placeholder.com/15/eaf27c/000000?text=+" /> |
+| lichen               | <img src="https://via.placeholder.com/15/71b48d/000000?text=+" /> |
+| iris                 | <img src="https://via.placeholder.com/15/454ade/000000?text=+" /> |
+| cerulean             | <img src="https://via.placeholder.com/15/9bb7d4/000000?text=+" /> |
+| fuchsiarose          | <img src="https://via.placeholder.com/15/c74375/000000?text=+" /> |
+| truered              | <img src="https://via.placeholder.com/15/bf1932/000000?text=+" /> |
+| aquasky              | <img src="https://via.placeholder.com/15/7bc4c4/000000?text=+" /> |
+| tigerlily            | <img src="https://via.placeholder.com/15/e2583e/000000?text=+" /> |
+| blueturquoise        | <img src="https://via.placeholder.com/15/53b0ae/000000?text=+" /> |
+| sanddollar           | <img src="https://via.placeholder.com/15/decdbe/000000?text=+" /> |
+| chilipepper          | <img src="https://via.placeholder.com/15/9b1b30/000000?text=+" /> |
+| blueiris             | <img src="https://via.placeholder.com/15/5a5b9f/000000?text=+" /> |
+| mimosa               | <img src="https://via.placeholder.com/15/f0c05a/000000?text=+" /> |
+| pantoneturquoise     | <img src="https://via.placeholder.com/15/45b5aa/000000?text=+" /> |
+| honeysuckle          | <img src="https://via.placeholder.com/15/d94f70/000000?text=+" /> |
+| tangerinetango       | <img src="https://via.placeholder.com/15/dd4124/000000?text=+" /> |
+| pantoneemerald       | <img src="https://via.placeholder.com/15/09473/000000?text=+" />  |
+| radiantorchid        | <img src="https://via.placeholder.com/15/b163a3/000000?text=+" /> |
+| marsala              | <img src="https://via.placeholder.com/15/955251/000000?text=+" /> |
+| pantonerosequartz    | <img src="https://via.placeholder.com/15/f7cac9/000000?text=+" /> |
+| serenity             | <img src="https://via.placeholder.com/15/92a8d1/000000?text=+" /> |
+| greenery             | <img src="https://via.placeholder.com/15/88b04b/000000?text=+" /> |
+| ultraviolet          | <img src="https://via.placeholder.com/15/5f4b8b/000000?text=+" /> |
+| livingcoral          | <img src="https://via.placeholder.com/15/ff6f61/000000?text=+" /> |
+| classicblue          | <img src="https://via.placeholder.com/15/f4c81/000000?text=+" />  |
+| alienarmpit          | <img src="https://via.placeholder.com/15/84de2/000000?text=+" />  |
+| bigfootfeet          | <img src="https://via.placeholder.com/15/e88e5a/000000?text=+" /> |
+| boogerbuster         | <img src="https://via.placeholder.com/15/dde26a/000000?text=+" /> |
+| dingydungeon         | <img src="https://via.placeholder.com/15/c53151/000000?text=+" /> |
+| gargoylegas          | <img src="https://via.placeholder.com/15/ffdf46/000000?text=+" /> |
+| giantsclub           | <img src="https://via.placeholder.com/15/b05c52/000000?text=+" /> |
+| magicpotion          | <img src="https://via.placeholder.com/15/ff4466/000000?text=+" /> |
+| mummystomb           | <img src="https://via.placeholder.com/15/828e84/000000?text=+" /> |
+| ogreodor             | <img src="https://via.placeholder.com/15/fd5240/000000?text=+" /> |
+| pixiepowder          | <img src="https://via.placeholder.com/15/391285/000000?text=+" /> |
+| princessperfume      | <img src="https://via.placeholder.com/15/ff85cf/000000?text=+" /> |
+| sasquatchsocks       | <img src="https://via.placeholder.com/15/ff4681/000000?text=+" /> |
+| seaserpent           | <img src="https://via.placeholder.com/15/4bc7cf/000000?text=+" /> |
+| smashedpumpkin       | <img src="https://via.placeholder.com/15/ff6d3a/000000?text=+" /> |
+| sunburntcyclops      | <img src="https://via.placeholder.com/15/ff404c/000000?text=+" /> |
+| winterwizard         | <img src="https://via.placeholder.com/15/a0e6ff/000000?text=+" /> |
+| aztecgold            | <img src="https://via.placeholder.com/15/c39953/000000?text=+" /> |
+| burnishedbrown       | <img src="https://via.placeholder.com/15/a17a74/000000?text=+" /> |
+| ceruleanfrost        | <img src="https://via.placeholder.com/15/6d9bc3/000000?text=+" /> |
+| cinnamonsatin        | <img src="https://via.placeholder.com/15/cd607e/000000?text=+" /> |
+| copperpenny          | <img src="https://via.placeholder.com/15/ad6f69/000000?text=+" /> |
+| cosmiccobalt         | <img src="https://via.placeholder.com/15/2e2d88/000000?text=+" /> |
+| glossygrape          | <img src="https://via.placeholder.com/15/ab92b3/000000?text=+" /> |
+| granitegray          | <img src="https://via.placeholder.com/15/676767/000000?text=+" /> |
+| greensheen           | <img src="https://via.placeholder.com/15/6eaea1/000000?text=+" /> |
+| lilacluster          | <img src="https://via.placeholder.com/15/ae98aa/000000?text=+" /> |
+| mistymoss            | <img src="https://via.placeholder.com/15/bbb477/000000?text=+" /> |
+| mysticmaroon         | <img src="https://via.placeholder.com/15/ad4379/000000?text=+" /> |
+| pearlypurple         | <img src="https://via.placeholder.com/15/b768a2/000000?text=+" /> |
+| pewterblue           | <img src="https://via.placeholder.com/15/8ba8b7/000000?text=+" /> |
+| polishedpine         | <img src="https://via.placeholder.com/15/5da493/000000?text=+" /> |
+| quicksilver          | <img src="https://via.placeholder.com/15/a6a6a6/000000?text=+" /> |
+| rosedust             | <img src="https://via.placeholder.com/15/9e5e6f/000000?text=+" /> |
+| rustyred             | <img src="https://via.placeholder.com/15/da2c43/000000?text=+" /> |
+| shadowblue           | <img src="https://via.placeholder.com/15/778ba5/000000?text=+" /> |
+| shinyshamrock        | <img src="https://via.placeholder.com/15/5fa778/000000?text=+" /> |
+| steelteal            | <img src="https://via.placeholder.com/15/5f8a8b/000000?text=+" /> |
+| sugarplum            | <img src="https://via.placeholder.com/15/914e75/000000?text=+" /> |
+| twilightlavender     | <img src="https://via.placeholder.com/15/8a496b/000000?text=+" /> |
+| wintergreendream     | <img src="https://via.placeholder.com/15/56887d/000000?text=+" /> |
+| brazil               | <img src="https://via.placeholder.com/15/09b3a/000000?text=+" />  |
+| colombia             | <img src="https://via.placeholder.com/15/fcd116/000000?text=+" /> |
+| argentina            | <img src="https://via.placeholder.com/15/74acdf/000000?text=+" /> |
+| palau                | <img src="https://via.placeholder.com/15/099ff/000000?text=+" />  |
+| vanuatu              | <img src="https://via.placeholder.com/15/d21034/000000?text=+" /> |
+| solomon              | <img src="https://via.placeholder.com/15/215b33/000000?text=+" /> |
+| usa                  | <img src="https://via.placeholder.com/15/3c3b6e/000000?text=+" /> |
+| bahamas              | <img src="https://via.placeholder.com/15/0778b/000000?text=+" />  |
+| panama               | <img src="https://via.placeholder.com/15/da121a/000000?text=+" /> |
+| ireland              | <img src="https://via.placeholder.com/15/ff883e/000000?text=+" /> |
+| belgium              | <img src="https://via.placeholder.com/15/fae042/000000?text=+" /> |
+| latvia               | <img src="https://via.placeholder.com/15/9e3039/000000?text=+" /> |
+| india                | <img src="https://via.placeholder.com/15/ff9a30/000000?text=+" /> |
+| macau                | <img src="https://via.placeholder.com/15/f7562/000000?text=+" />  |
+| china                | <img src="https://via.placeholder.com/15/de2910/000000?text=+" /> |
+| southafrica          | <img src="https://via.placeholder.com/15/07749/000000?text=+" />  |
+| madagascar           | <img src="https://via.placeholder.com/15/fc3d32/000000?text=+" /> |
+| seychelles           | <img src="https://via.placeholder.com/15/fcd856/000000?text=+" /> |
