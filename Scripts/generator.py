@@ -2,47 +2,47 @@ RGBAs = [(240.0, 248.0, 255.0, 255.0), (250.0, 235.0, 215.0, 255.0), (0.0, 255.0
 KEYs = ['aliceblue', 'antiquewhite', 'aqua', 'aquamarine', 'azure', 'beige', 'bisque', 'black', 'blanchedalmond', 'blue', 'blueviolet', 'brown', 'burlywood', 'cadetblue', 'chartreuse', 'chocolate', 'coral', 'cornflowerblue', 'cornsilk', 'crimson', 'cyan', 'darkblue', 'darkcyan', 'darkgoldenrod', 'darkgray', 'darkgreen', 'darkgrey', 'darkkhaki', 'darkmagenta', 'darkolivegreen', 'darkorange', 'darkorchid', 'darkred', 'darksalmon', 'darkseagreen', 'darkslateblue', 'darkslategray', 'darkslategrey', 'darkturquoise', 'darkviolet', 'deeppink', 'deepskyblue', 'dimgray', 'dimgrey', 'dodgerblue', 'firebrick', 'floralwhite', 'forestgreen', 'fuchsia', 'gainsboro', 'ghostwhite', 'goldenrod', 'gold', 'gray', 'green', 'greenyellow', 'grey', 'honeydew', 'hotpink', 'indianred', 'indigo', 'ivory', 'khaki', 'lavenderblush', 'lavender', 'lawngreen', 'lemonchiffon', 'lightblue', 'lightcoral', 'lightcyan', 'lightgoldenrodyellow', 'lightgray', 'lightgreen', 'lightgrey', 'lightpink', 'lightsalmon', 'lightseagreen', 'lightskyblue', 'lightslategray', 'lightslategrey', 'lightsteelblue', 'lightyellow', 'lime', 'limegreen', 'linen', 'magenta', 'maroon', 'mediumaquamarine', 'mediumblue', 'mediumorchid', 'mediumpurple', 'mediumseagreen', 'mediumslateblue', 'mediumspringgreen', 'mediumturquoise', 'mediumvioletred', 'midnightblue', 'mintcream', 'mistyrose', 'moccasin', 'navajowhite', 'navy', 'oldlace', 'olive', 'olivedrab', 'orange', 'orangered', 'orchid', 'palegoldenrod', 'palegreen', 'paleturquoise', 'palevioletred', 'papayawhip', 'peachpuff', 'peru', 'pink', 'plum', 'powderblue', 'purple', 'rebeccapurple', 'red', 'rosybrown', 'royalblue', 'saddlebrown', 'salmon', 'sandybrown', 'seagreen', 'seashell', 'sienna', 'silver', 'skyblue', 'slateblue', 'slategray', 'slategrey', 'snow', 'springgreen', 'steelblue', 'tan', 'teal', 'thistle', 'tomato', 'turquoise', 'violet', 'wheat', 'white', 'whitesmoke', 'yellow', 'yellowgreen', 'radicalred', 'wildwatermelon', 'outrageousorange', 'atomictangerine', 'neoncarrot', 'sunglow', 'laserlemon', 'electriclime', "screamin'green", 'magicmint', 'blizzardblue', 'shockingpink', 'razzledazzlerose', 'hotmagenta', 'amethyst', 'citrine', 'emerald', 'jade', 'jasper', 'lapislazuli', 'malachite', 'moonstone', 'onyx', 'peridot', 'pinkpearl', 'rosequartz', 'ruby', 'sapphire', 'smokeytopaz', "tigerseye", 'sizzlingred', 'redsalsa', 'tartorange', 'orangesoda', 'brightyellow', 'yellowsunshine', 'slimygreen', 'greenlizard', 'denimblue', 'bluejeans', 'plumppurple', 'purpleplum', 'sweetbrown', 'brownsugar', 'eerieblack', 'blackshadows', 'babypowder', 'banana', 'blueberry', 'bubblegum', 'cedarchest', 'cherry', 'coconut', 'daffodil', 'dirt', 'eucalyptus', 'freshair', 'grape', 'jellybean', 'leatherjacket', 'lemon', 'licorice', 'lilac', 'lumber', 'newcar', 'peach', 'pine', 'rose', 'shampoo', 'smoke', 'soap', 'strawberry', 'tulip', 'alloyorange', "bdazzledblue", "bigdiporuby", 'bittersweetshimmer', 'blastoffbronze', 'cybergrape', 'deepspacesparkle', 'goldfusion', 'illuminatingemerald', 'metallicseaweed', 'metallicsunburst', 'razzmicberry', 'sheengreen', 'shimmeringblush', 'sonicsilver', 'night', 'poison', 'antiqueruby', 'eaglegreen', 'copper', 'keylime', 'lichen', 'iris', 'cerulean', 'fuchsiarose', 'truered', 'aquasky', 'tigerlily', 'blueturquoise', 'sanddollar', 'chilipepper', 'blueiris', 'mimosa', 'pantoneturquoise', 'honeysuckle', 'tangerinetango', 'pantoneemerald', 'radiantorchid', 'marsala', 'pantonerosequartz', 'serenity', 'greenery', 'ultraviolet', 'livingcoral', 'classicblue', 'alienarmpit', 'bigfootfeet', 'boogerbuster', 'dingydungeon', 'gargoylegas', "giant'sclub", 'magicpotion', "mummy'stomb", 'ogreodor', 'pixiepowder', 'princessperfume', 'sasquatchsocks', 'seaserpent', 'smashedpumpkin', 'sunburntcyclops', 'winterwizard', 'aztecgold', 'burnishedbrown', 'ceruleanfrost', 'cinnamonsatin', 'copperpenny', 'cosmiccobalt', 'glossygrape', 'granitegray', 'greensheen', 'lilacluster', 'mistymoss', 'mysticmaroon', 'pearlypurple', 'pewterblue', 'polishedpine', 'quicksilver', 'rosedust', 'rustyred', 'shadowblue', 'shinyshamrock', 'steelteal', 'sugarplum', 'twilightlavender', 'wintergreendream', 'brazil', 'colombia', 'argentina', 'palau', 'vanuatu', 'solomon', 'usa', 'bahamas', 'panama', 'ireland', 'belgium', 'latvia', 'india', 'macau', 'china', 'southafrica', 'madagascar', 'seychelles']
 KEYs = [i.replace("'", '') for i in KEYs]
 
-output =  """*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}.center-text {text-align: center;}.flex {display: flex;}.sticky{position:-webkit-sticky; position: sticky; top: 0;}.nav{display: flex; flex-wrap: wrap; align-items: center; justify-content: center;}.nav-link * {text-decoration: none;}.nav-link {text-decoration: none}.nav-title {order: -1;}.nav-title, nav-title * {font-family: 'Century Gothic'; font-weight: bold;}"""
+output =  """*{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;}.center-text{text-align:center;}.flex{display:flex;}.sticky{position:-webkit-sticky;position:sticky;top:0;}.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;}.nav-link * {text-decoration:none;}.nav-link {text-decoration:none}.nav-title {order:-1;}.nav-title, nav-title * {font-family:'Century Gothic';font-weight:bold;}"""
 
 newline = ""
 
 print("Generating positional...")
-for i in range(15):
-    output += f".p{i + 1}" + r"{padding: " + str(i+1) + r"rem;}" + newline
+for i in range(10):
+    output += f".p{i + 1}" + r"{padding:" + str(i+1) + r"rem;}" + newline
 
-for i in range(15):
-    output += f".m{i + 1}" + r"{margin: " + str(i+1) + r"rem;}" + newline
+for i in range(10):
+    output += f".m{i + 1}" + r"{margin:" + str(i+1) + r"rem;}" + newline
 
 print("Generating borders...")
 for i in range(10):
-    output += f".r{i + 1}" + r"{border-radius: " + str((i+1)/2) + r"rem;}" + newline
+    output += f".r{i + 1}" + r"{border-radius:" + str((i+1)/2) + r"rem;}" + newline
 
 print("Generating shadows...")
-for i in range(5):
-    output += f".shadow-{i + 1}" + r"{box-shadow: 10px 10px " + str((i+1)) + r"rem #3333;}" + newline
+for i in range(4):
+    output += f".s{i + 1}" + r"{box-shadow:10px 10px " + str((i+1)) + r"rem #3333;}" + newline
 
 print("Generating glows...")
 for i, j in enumerate(RGBAs):
-    output += f".glow-text-{KEYs[i]}" + r"{text-shadow: 0 0 0.2rem rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
+    output += f".glow-text-{KEYs[i]}" + r"{text-shadow:0 0 0.2rem rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
 
 for i, j in enumerate(RGBAs):
-    output += f".glow-{KEYs[i]}" + r"{box-shadow: 0 0 1rem rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
+    output += f".glow-{KEYs[i]}" + r"{box-shadow:0 0 1rem rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
 
 for i, j in enumerate(RGBAs):
-    output += f".bg-{KEYs[i]}" + r"{background-color: rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
+    output += f".bg-{KEYs[i]}" + r"{background-color:rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
 
 for i, j in enumerate(RGBAs):
-    output += f".text-{KEYs[i]}" + r"{color: rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
+    output += f".t-{KEYs[i]}" + r"{color:rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
 
 print("Generating background 1...")
 for i, j in enumerate(RGBAs):
     for k, l in enumerate(RGBAs):
-        output += f".bg-grad-{KEYs[i]}-{KEYs[k]}" + r"{background: linear-gradient(90deg, rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + ", rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + r");}" + newline
+        output += f".bg-grad-{KEYs[i]}-{KEYs[k]}" + r"{background:linear-gradient(90deg, rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + ", rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + r");}" + newline
 
 print("Generating background 2...")
 for i, j in enumerate(RGBAs):
     for k, l in enumerate(RGBAs):
-        output += f".bg-grad-{KEYs[k]}-{KEYs[i]}" + r"{background: linear-gradient(90deg, rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + ", rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r");}" + newline
+        output += f".bg-grad-{KEYs[k]}-{KEYs[i]}" + r"{background:linear-gradient(90deg, rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + ", rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r");}" + newline
 
 print("Writing to file...")
 import os

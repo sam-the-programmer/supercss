@@ -7,7 +7,10 @@
 ## Table of Contents
 - [What is superCSS?](#what-is-supercss)
 - [Specifications and Docs](#specifications-and-docs)
-  - [**There are many colours, from the Python library ColorDict.**](#there-are-many-colours-from-the-python-library-colordict)
+  - [Classes](#classes)
+    - [Positional](#positional)
+    - [Edges](#edges)
+  - [Colors](#colors)
 
 <br />
 
@@ -43,7 +46,24 @@ To import into your file as a stylesheet, use the following in the `head` of you
 
 # Specifications and Docs
 
-## **There are many colours, from the Python library [ColorDict](https://pypi.org/project/colordict/).**
+## Classes
+
+### Positional
+- Padding: `p`[size]
+- Margins: `m`[size]
+
+### Edges
+- Rounded: `r`[size]
+- Shadows: `s`[size]
+- Glow: `glow-`[colour name]
+- Glow Text: `glow-text-`[colour name]
+
+## Colors
+- Text colour: `t-`[colour name]
+- Background colour: `bg-`[colour name]
+- Background gradient: `bg-grad-`[colour 1 name]`-`[Colour 2 name}
+
+**There are many colours, from the Python library [ColorDict](https://pypi.org/project/colordict/).**
 
 | Name                 | Color                                                             |
 | -------------------- | ----------------------------------------------------------------- |
