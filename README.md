@@ -10,6 +10,7 @@
   - [Classes](#classes)
     - [Positional](#positional)
     - [Edges](#edges)
+  - [Example](#example)
   - [Colors](#colors)
 
 <br />
@@ -54,29 +55,46 @@ To import into your file as a stylesheet, use the following in the `head` of you
 
 ### Edges
 - Rounded: `r`[size]
-- Shadows: `s`[size]
+- Shadows: `s`[dispersion]
 - Glow: `glow-`[colour name]
 - Glow Text: `glow-text-`[colour name]
+
+## Example
+
+```html
+<div class="nav sticky r2 bg-grad-purple-slategray">
+  <span class="nav-title">superCSS</span>
+  <a class="nav-link" href="https://github.com/Password-Classified/superCSS">Repository</a>
+</div>
+<div class="bg-grad-orangered-yellow r3 p3 m3 s3">
+  <p class="p3">
+    We love <span class="glow-text">superCSS!</span>
+  </p>
+</div>
+```
 
 ## Colors
 - Text colour: `t-`[colour name]
 - Background colour: `bg-`[colour name]
 - Background gradient: `bg-grad-`[colour 1 name]`-`[Colour 2 name}
+  
 
 **There are many colours, from the Python library [ColorDict](https://pypi.org/project/colordict/).**
 *Note: Some colours have been misrepresented here, excuse any mismatching names.*
 
 | Name                 | Color                                                             |
-| -------------------- | ----------------------------------------------------------------- |
+|----------------------|-------------------------------------------------------------------|
 | aztecgold            | <img src="https://via.placeholder.com/15/c39953/000000?text=+" /> |
 | bigfootfeet          | <img src="https://via.placeholder.com/15/e88e5a/000000?text=+" /> |
 | chocolate            | <img src="https://via.placeholder.com/15/d2691e/000000?text=+" /> |
 | alloyorange          | <img src="https://via.placeholder.com/15/c46210/000000?text=+" /> |
 | blastoffbronze       | <img src="https://via.placeholder.com/15/a57164/000000?text=+" /> |
+| citrine              | <img src="https://via.placeholder.com/15/93379/000000?text=+" />  |
 | antiqueruby          | <img src="https://via.placeholder.com/15/832232/000000?text=+" /> |
 | chilipepper          | <img src="https://via.placeholder.com/15/9b1b30/000000?text=+" /> |
 | bigdiporuby          | <img src="https://via.placeholder.com/15/9c2542/000000?text=+" /> |
 | darkred              | <img src="https://via.placeholder.com/15/8b00/000000?text=+" />   |
+| bittersweetshimmer   | <img src="https://via.placeholder.com/15/bf4f51/000000?text=+" /> |
 | crimson              | <img src="https://via.placeholder.com/15/dc143c/000000?text=+" /> |
 | china                | <img src="https://via.placeholder.com/15/de2910/000000?text=+" /> |
 | cherry               | <img src="https://via.placeholder.com/15/da2647/000000?text=+" /> |
@@ -85,60 +103,59 @@ To import into your file as a stylesheet, use the following in the `head` of you
 | banana               | <img src="https://via.placeholder.com/15/ffd12a/000000?text=+" /> |
 | belgium              | <img src="https://via.placeholder.com/15/fae042/000000?text=+" /> |
 | yellowsunshine       | <img src="https://via.placeholder.com/15/fff70/000000?text=+" />  |
+| brightyellow         | <img src="https://via.placeholder.com/15/fffa1d/000000?text=+" /> |
 | yellow               | <img src="https://via.placeholder.com/15/ffff0/000000?text=+" />  |
+| boogerbuster         | <img src="https://via.placeholder.com/15/dde26a/000000?text=+" /> |
 | yellowgreen          | <img src="https://via.placeholder.com/15/9acd32/000000?text=+" /> |
 | alienarmpit          | <img src="https://via.placeholder.com/15/84de2/000000?text=+" />  |
+| chartreuse           | <img src="https://via.placeholder.com/15/7fff0/000000?text=+" />  |
+| aqua                 | <img src="https://via.placeholder.com/15/0ffff/000000?text=+" />  |
 | brazil               | <img src="https://via.placeholder.com/15/09b3a/000000?text=+" />  |
 | bahamas              | <img src="https://via.placeholder.com/15/0778b/000000?text=+" />  |
-| aqua                 | <img src="https://via.placeholder.com/15/0ffff/000000?text=+" />  |
 | aquamarine           | <img src="https://via.placeholder.com/15/7fffd4/000000?text=+" /> |
+| cyan                 | <img src="https://via.placeholder.com/15/00ffff/000000?text=+" />  |
 | aquasky              | <img src="https://via.placeholder.com/15/7bc4c4/000000?text=+" /> |
+| blueturquoise        | <img src="https://via.placeholder.com/15/53b0ae/000000?text=+" /> |
 | amethyst             | <img src="https://via.placeholder.com/15/64609a/000000?text=+" /> |
 | blueiris             | <img src="https://via.placeholder.com/15/5a5b9f/000000?text=+" /> |
-| blue                 | <img src="https://via.placeholder.com/15/0000ff/000000?text=+" />   |
+| darkslateblue        | <img src="https://via.placeholder.com/15/483d8b/000000?text=+" /> |
+| blue                 | <img src="https://via.placeholder.com/15/0000ff/000000?text=+" /> |
 | bdazzledblue         | <img src="https://via.placeholder.com/15/2e5894/000000?text=+" /> |
 | blueberry            | <img src="https://via.placeholder.com/15/4f86f7/000000?text=+" /> |
 | argentina            | <img src="https://via.placeholder.com/15/74acdf/000000?text=+" /> |
-| bluejeans            | <img src="https://via.placeholder.com/15/5dadec/000000?text=+" /> |
 | blizzardblue         | <img src="https://via.placeholder.com/15/50bfe6/000000?text=+" /> |
+| bluejeans            | <img src="https://via.placeholder.com/15/5dadec/000000?text=+" /> |
+| cornflowerblue       | <img src="https://via.placeholder.com/15/6495ed/000000?text=+" /> |
+| ceruleanfrost        | <img src="https://via.placeholder.com/15/6d9bc3/000000?text=+" /> |
+| cerulean             | <img src="https://via.placeholder.com/15/9bb7d4/000000?text=+" /> |
 | aliceblue            | <img src="https://via.placeholder.com/15/f0f8ff/000000?text=+" /> |
 | babypowder           | <img src="https://via.placeholder.com/15/fefefa/000000?text=+" /> |
 | azure                | <img src="https://via.placeholder.com/15/f0ffff/000000?text=+" /> |
+| beige                | <img src="https://via.placeholder.com/15/f5f5dc/000000?text=+" /> |
 | antiquewhite         | <img src="https://via.placeholder.com/15/faebd7/000000?text=+" /> |
+| blanchedalmond       | <img src="https://via.placeholder.com/15/ffebcd/000000?text=+" /> |
+| bisque               | <img src="https://via.placeholder.com/15/ffe4c4/000000?text=+" /> |
 | bubblegum            | <img src="https://via.placeholder.com/15/ffd3f8/000000?text=+" /> |
 | hotpink              | <img src="https://via.placeholder.com/15/ff69b4/000000?text=+" /> |
 | honeysuckle          | <img src="https://via.placeholder.com/15/d94f70/000000?text=+" /> |
-| beige                | <img src="https://via.placeholder.com/15/f5f5dc/000000?text=+" /> |
-| bisque               | <img src="https://via.placeholder.com/15/ffe4c4/000000?text=+" /> |
-| bittersweetshimmer   | <img src="https://via.placeholder.com/15/bf4f51/000000?text=+" /> |
-| black                | <img src="https://via.placeholder.com/15/000/000000?text=+" />    |
-| blackshadows         | <img src="https://via.placeholder.com/15/bfafb2/000000?text=+" /> |
-| blanchedalmond       | <img src="https://via.placeholder.com/15/ffebcd/000000?text=+" /> |
-| blueturquoise        | <img src="https://via.placeholder.com/15/53b0ae/000000?text=+" /> |
 | blueviolet           | <img src="https://via.placeholder.com/15/8a2be2/000000?text=+" /> |
-| boogerbuster         | <img src="https://via.placeholder.com/15/dde26a/000000?text=+" /> |
-| brightyellow         | <img src="https://via.placeholder.com/15/ffaa1d/000000?text=+" /> |
+| blackshadows         | <img src="https://via.placeholder.com/15/bfafb2/000000?text=+" /> |
+| black                | <img src="https://via.placeholder.com/15/000/000000?text=+" />    |
 | brown                | <img src="https://via.placeholder.com/15/a52a2a/000000?text=+" /> |
 | brownsugar           | <img src="https://via.placeholder.com/15/af6e4d/000000?text=+" /> |
 | burlywood            | <img src="https://via.placeholder.com/15/deb887/000000?text=+" /> |
 | burnishedbrown       | <img src="https://via.placeholder.com/15/a17a74/000000?text=+" /> |
 | cadetblue            | <img src="https://via.placeholder.com/15/5f9ea0/000000?text=+" /> |
 | cedarchest           | <img src="https://via.placeholder.com/15/c95a49/000000?text=+" /> |
-| cerulean             | <img src="https://via.placeholder.com/15/9bb7d4/000000?text=+" /> |
-| ceruleanfrost        | <img src="https://via.placeholder.com/15/6d9bc3/000000?text=+" /> |
-| chartreuse           | <img src="https://via.placeholder.com/15/7fff0/000000?text=+" />  |
 | cinnamonsatin        | <img src="https://via.placeholder.com/15/cd607e/000000?text=+" /> |
-| citrine              | <img src="https://via.placeholder.com/15/93379/000000?text=+" />  |
-| classicblue          | <img src="https://via.placeholder.com/15/f4c81/000000?text=+" />  |
+| classicblue          | <img src="https://via.placeholder.com/15/0f4c81/000000?text=+" />  |
 | coconut              | <img src="https://via.placeholder.com/15/fefefe/000000?text=+" /> |
 | colombia             | <img src="https://via.placeholder.com/15/fcd116/000000?text=+" /> |
 | copper               | <img src="https://via.placeholder.com/15/ce8964/000000?text=+" /> |
 | copperpenny          | <img src="https://via.placeholder.com/15/ad6f69/000000?text=+" /> |
 | coral                | <img src="https://via.placeholder.com/15/ff7f50/000000?text=+" /> |
-| cornflowerblue       | <img src="https://via.placeholder.com/15/6495ed/000000?text=+" /> |
 | cornsilk             | <img src="https://via.placeholder.com/15/fff8dc/000000?text=+" /> |
 | cosmiccobalt         | <img src="https://via.placeholder.com/15/2e2d88/000000?text=+" /> |
-| cyan                 | <img src="https://via.placeholder.com/15/0ffff/000000?text=+" />  |
 | cybergrape           | <img src="https://via.placeholder.com/15/58427c/000000?text=+" /> |
 | daffodil             | <img src="https://via.placeholder.com/15/ffff31/000000?text=+" /> |
 | darkblue             | <img src="https://via.placeholder.com/15/008b/000000?text=+" />   |
@@ -154,7 +171,6 @@ To import into your file as a stylesheet, use the following in the `head` of you
 | darkorchid           | <img src="https://via.placeholder.com/15/9932cc/000000?text=+" /> |
 | darksalmon           | <img src="https://via.placeholder.com/15/e9967a/000000?text=+" /> |
 | darkseagreen         | <img src="https://via.placeholder.com/15/8fbc8f/000000?text=+" /> |
-| darkslateblue        | <img src="https://via.placeholder.com/15/483d8b/000000?text=+" /> |
 | darkslategray        | <img src="https://via.placeholder.com/15/2f4f4f/000000?text=+" /> |
 | darkslategrey        | <img src="https://via.placeholder.com/15/2f4f4f/000000?text=+" /> |
 | darkturquoise        | <img src="https://via.placeholder.com/15/0ced1/000000?text=+" />  |
