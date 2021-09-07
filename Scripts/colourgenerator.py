@@ -9,12 +9,14 @@ newline = ""
 print("Generating background 1...")
 for i, j in enumerate(RGBAs):
     for k, l in enumerate(RGBAs):
-        output += f".bg-grad-{KEYs[i]}-{KEYs[k]}" + r"{background:linear-gradient(90deg, rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + ", rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + r");}" + newline
+        if KEYs[k] != KEYs[i]:
+            output += f".bg-grad-{KEYs[i]}-{KEYs[k]}" + r"{background:linear-gradient(90deg, rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + ", rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + r");}" + newline
 
 print("Generating background 2...")
 for i, j in enumerate(RGBAs):
     for k, l in enumerate(RGBAs):
-        output += f".bg-grad-{KEYs[k]}-{KEYs[i]}" + r"{background:linear-gradient(90deg, rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + ", rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r");}" + newline
+        if KEYs[k] != KEYs[i]:
+            output += f".bg-grad-{KEYs[k]}-{KEYs[i]}" + r"{background:linear-gradient(90deg, rgb" + str((int(l[0]), int(l[1]), int(l[2]))) + ", rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r");}" + newline
 
 print("Writing to file...")
 import os
