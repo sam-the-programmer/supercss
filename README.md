@@ -125,6 +125,7 @@ To import into your file as a stylesheet, use the following in the `head` of you
 | bdazzledblue         | <img src="https://via.placeholder.com/15/2e5894/000000?text=+" /> |
 | blueberry            | <img src="https://via.placeholder.com/15/4f86f7/000000?text=+" /> |
 | argentina            | <img src="https://via.placeholder.com/15/74acdf/000000?text=+" /> |
+| winterwizard         | <img src="https://via.placeholder.com/15/a0e6ff/000000?text=+" /> |
 | blizzardblue         | <img src="https://via.placeholder.com/15/50bfe6/000000?text=+" /> |
 | bluejeans            | <img src="https://via.placeholder.com/15/5dadec/000000?text=+" /> |
 | cornflowerblue       | <img src="https://via.placeholder.com/15/6495ed/000000?text=+" /> |
@@ -409,4 +410,3 @@ To import into your file as a stylesheet, use the following in the `head` of you
 | whitesmoke           | <img src="https://via.placeholder.com/15/f5f5f5/000000?text=+" /> |
 | wildwatermelon       | <img src="https://via.placeholder.com/15/fd5b78/000000?text=+" /> |
 | wintergreendream     | <img src="https://via.placeholder.com/15/56887d/000000?text=+" /> |
-| winterwizard         | <img src="https://via.placeholder.com/15/a0e6ff/000000?text=+" /> |
