@@ -3,7 +3,7 @@ KEYs = ['aliceblue', 'antiquewhite', 'aqua', 'aquamarine', 'azure', 'beige', 'bi
 KEYs = [i.replace("'", '') for i in KEYs]
 
 output =  """*{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;}.center-text{text-align:center;}.flex{display:flex;}.sticky{position:-webkit-sticky;position:sticky;top:0;}.nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;}.nav-link * {text-decoration:none;}.nav-link {text-decoration:none}.nav-title {order:-1;}.nav-title, nav-title * {font-family:'Century Gothic';font-weight:bold;}"""
-
+output += """.space-around{justify-content:space around;align-items:center;}.space-between{justify-content: space between;align-items:center;}.full-width{position:absolute;left:0px;right:0px;top:0px;}"""
 newline = ""
 
 print("Generating positional...")
