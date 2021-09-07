@@ -31,7 +31,9 @@ projects.
 To import into your file as a stylesheet, use the following in the `head` of your HTML file.
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/super.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/utils.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/colour.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/glow.css"/>
 ```
 
 <br/>
