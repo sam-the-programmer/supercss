@@ -17,12 +17,6 @@ for i, j in enumerate(RGBAs):
 for i, j in enumerate(RGBAs):
     output += f".glow-{KEYs[i]}" + r"{box-shadow:0 0 1rem rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
 
-for i, j in enumerate(RGBAs):
-    output += f".bg-{KEYs[i]}" + r"{background-color:rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
-
-for i, j in enumerate(RGBAs):
-    output += f".t-{KEYs[i]}" + r"{color:rgb" + str((int(j[0]), int(j[1]), int(j[2]))) + r";}" + newline
-
 print("Writing to file...")
 import os
 os.path.join( os.getcwd(), '..', 'CSS/glow.css' )

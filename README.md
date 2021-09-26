@@ -30,17 +30,23 @@ projects.
 
 To import into your file as a stylesheet, use the following in the `head` of your HTML file.
 
+This is for everything...
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/utils.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/base.css"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/colour.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/grad.css"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/glow.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/position.css"/>
 ```
 
-<br/>
+But, if you want to only use one, choose a selection, but always use:
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/base.css"/>
+```
+for the base functionality.
 
-**Find superCSS as `super.css` in the CSS folder!**
+The file imports are in the form of... `https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/`**stylesheet**`.css`
 
-<br/>
 <br/>
 <br/>
 <hr/>
@@ -50,6 +56,20 @@ To import into your file as a stylesheet, use the following in the `head` of you
 # Specifications and Docs
 
 ## Classes
+
+#### Unfinished table
+| File       | Class     | Info                                          |
+|------------|-----------|-----------------------------------------------|
+| base.css   | p-1       | 1rem of padding                               |
+|            | ...       | ...                                           |
+|            | p-10      | 10rem of padding                              |
+|            | m-1       | 1rem of margin                                |
+|            | ...       | ...                                           |
+|            | m-10      | 10rem of margin                               |
+|            |           |                                               |
+| colour.css | bg-colour | background-color is the specified colour name |
+|            | t-colour  | text colour is the specified colour name      |
+
 
 ### Positional
 - Padding: `p`[size]
@@ -115,7 +135,7 @@ To import into your file as a stylesheet, use the following in the `head` of you
 | brazil               | <img src="https://via.placeholder.com/15/09b3a/000000?text=+" />  |
 | bahamas              | <img src="https://via.placeholder.com/15/0778b/000000?text=+" />  |
 | aquamarine           | <img src="https://via.placeholder.com/15/7fffd4/000000?text=+" /> |
-| cyan                 | <img src="https://via.placeholder.com/15/00ffff/000000?text=+" />  |
+| cyan                 | <img src="https://via.placeholder.com/15/00ffff/000000?text=+" /> |
 | aquasky              | <img src="https://via.placeholder.com/15/7bc4c4/000000?text=+" /> |
 | blueturquoise        | <img src="https://via.placeholder.com/15/53b0ae/000000?text=+" /> |
 | amethyst             | <img src="https://via.placeholder.com/15/64609a/000000?text=+" /> |
@@ -151,7 +171,7 @@ To import into your file as a stylesheet, use the following in the `head` of you
 | cadetblue            | <img src="https://via.placeholder.com/15/5f9ea0/000000?text=+" /> |
 | cedarchest           | <img src="https://via.placeholder.com/15/c95a49/000000?text=+" /> |
 | cinnamonsatin        | <img src="https://via.placeholder.com/15/cd607e/000000?text=+" /> |
-| classicblue          | <img src="https://via.placeholder.com/15/0f4c81/000000?text=+" />  |
+| classicblue          | <img src="https://via.placeholder.com/15/0f4c81/000000?text=+" /> |
 | coconut              | <img src="https://via.placeholder.com/15/fefefe/000000?text=+" /> |
 | colombia             | <img src="https://via.placeholder.com/15/fcd116/000000?text=+" /> |
 | copper               | <img src="https://via.placeholder.com/15/ce8964/000000?text=+" /> |
