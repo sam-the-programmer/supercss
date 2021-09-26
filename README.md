@@ -34,7 +34,7 @@ This is for everything...
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/base.css"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/colour.css"/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/grad.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/gradient.css"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/glow.css"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/position.css"/>
 ```
