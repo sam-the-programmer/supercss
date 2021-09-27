@@ -1,5 +1,5 @@
 for i in [
-    "Scripts/basegenerator.py",
+    # "Scripts/basegenerator.py",
     "Scripts/colourgenerator.py",
     "Scripts/glowgenerator.py",
     "Scripts/grad1generator.py",
