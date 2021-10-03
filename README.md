@@ -23,14 +23,17 @@
 
 # What is superCSS?
 
-superCSS is a *Tailwind* inspired, utility focused CSS framework.
-Equipped with all the necessities of any web developer, superCSS
-is ready to let you style at full speed for all of your web development
+superCSS is a *Tailwind* inspired, utility focused CSS framework. Equipped with all the necessities of any web developer, superCSS is ready to let you style at full speed for all of your web development
 projects.
 
 To import into your file as a stylesheet, use the following in the `head` of your HTML file.
 
-This is for everything...
+The master - **everything in one**. Good if you use most of its functionality. If you don't, it can increase loading times for your pages.
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/super.css" />
+```
+
+This is everything...
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/base.css"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/colour.css"/>
