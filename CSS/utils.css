@@ -39,3 +39,15 @@ nav-title * {
 .space-between {
   justify-content: space-between;
 }
+.space-evenly {
+  justify-content: space-evenly;
+}
+.fixed {
+  position: fixed;
+}
+.absolute {
+  position: absolute;
+}
+.relative {
+  position: relative;
+}
