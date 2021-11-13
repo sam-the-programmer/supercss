@@ -1,0 +1,58 @@
+@import url('./base.css');
+
+.relative { position: relative; }
+.fixed { position: fixed; }
+.sticky { position: sticky; }
+.absolute { position: absolute; }
+
+.rounded { border-radius: 3vh; }
+
+.flex { display: flex; }
+.column { flex-direction: column; }
+.row { flex-direction: row; }
+
+.space-around { justify-content: space-around; }
+.space-between { justify-content: space-between; }
+.space-evenly { justify-content: space-evenly; }
+
+.items-left { align-items: left; }
+.items-right { align-items: right; }
+.items-center { align-items: center; }
+
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.text-center { text-align: center; }
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.full-height { height: 100vh; }
+.full-width { width: 100vw; }
+
+.half-height { height: 50%; }
+.half-width { width: 50%; }
+
+.left {left: 0;}
+.right {right: 0;}
+.top {top: 0;}
+.bottom {bottom: 0;}
+
+.center {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border-radius: 3vh;
+    box-shadow: 0 1vh 1vh hsla(0, 0%, 69%, 0.24);
+}
