@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120">
+    <circle cx="60" cy="60" r="60" stroke="black" stroke-width="0" fill="white" />
+    <text font-size="74.9" textLength="315.7" x="41" y="90" font-family="'Century Gothic'" fill="rgb(158, 3, 248)">
+        S
+    </text>
+    <text font-size="74.9" textLength="315.7" x="43" y="90" font-family="'Century Gothic'" fill="rgb(255, 0, 0)">
+        S
+    </text>
+    <text font-size="74.9" textLength="315.7" x="45" y="90" font-family="'Century Gothic'" fill="rgb(255, 68, 0)">
+        S
+    </text>
+    <text font-size="74.9" textLength="315.7" x="47" y="90" font-family="'Century Gothic'" fill="rgb(255, 145, 0)">
+        S
+    </text>
+    <text font-size="74.9" textLength="315.7" x="49" y="90" font-family="'Century Gothic'" fill="rgb(252, 174, 5)">
+        S
+    </text>
+</svg>

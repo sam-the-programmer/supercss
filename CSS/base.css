@@ -61,6 +61,19 @@ a {
   text-decoration: none;
 }
 
+article {
+  padding: 2vw;
+}
+
+hr {
+  border: 2px solid var(--gray1);
+}
+
 img {
   width: 100%;
+}
+
+nav {
+  position: sticky;
+  position: -webkit-sticky;
 }

@@ -1,0 +1,7 @@
+@import url(./base.css);
+
+/* Bigger Stylesets */
+.box {
+    padding: 3vh;
+    box-shadow: 0 1vh 1vh -1vh hsla(0, 0%, 40%, 0.466);
+}
