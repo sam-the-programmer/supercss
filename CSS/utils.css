@@ -6,6 +6,11 @@
 .sticky { position: sticky; position: -webkit-sticky; top: 0; }
 .absolute { position: absolute; }
 
+.lfloat { float: left; }
+.rfloat { float: right; }
+.tfloat { float: top; }
+.bfloat { float: bottom; }
+
 .rounded { border-radius: 3vh; }
 
 /* Overflows */
@@ -32,13 +37,13 @@
 }
 
 /* Text Utils */
-.text-left { text-align: left; }
-.text-right { text-align: right; }
-.text-center { text-align: center; }
+.t-left { text-align: left; }
+.t-right { text-align: right; }
+.t-center { text-align: center; }
 
-.text-left * { text-align: left; }
-.text-right * { text-align: right; }
-.text-center * { text-align: center; }
+.t-left * { text-align: left; }
+.t-right * { text-align: right; }
+.t-center * { text-align: center; }
 
 .bold { font-weight: bold; }
 .light { font-weight: lighter; }
@@ -47,7 +52,7 @@
 .small { font-size: small; }
 .mid { font-size: medium; }
 .big { font-size: large; }
-.x-big { font-size: x-large; }
+.x-big { font-size: xx-large; }
 
 /* Height and Width */
 .full-height { height: 100vh; }

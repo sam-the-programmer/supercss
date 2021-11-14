@@ -3,7 +3,7 @@
 /* Bigger Stylesets */
 .box {
   padding: 3vh;
-  box-shadow: 0 1vh 1vh -1vh hsla(0, 0%, 40%, 0.466);
+  box-shadow: 0 1vh 1vh -1vh hsla(0, 0%, 33%, 0.698);
 }
 
 .nav {
@@ -12,15 +12,13 @@
 
   display: flex;
   justify-content: space-around;
-
-  background-color: var(--red3);
 }
 
 .nav a {
   padding: 3vh;
   width: 100%;
 
-  box-shadow: 0 1vh 1vh -1vh hsla(0, 0%, 40%, 0.466);
+  box-shadow: 0 1vh 1vh -1vh hsla(0, 0%, 33%, 0.698);
 
   background-color: white;
 

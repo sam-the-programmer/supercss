@@ -56,33 +56,32 @@ func gen_pad_margin(output string) string {
 	output += NEWLINE + ".mr-half{margin-right: .5vh;}"
 
 	for i := 0; i < 6; i++ {
-		output += NEWLINE + ".p-" + strconv.Itoa(i) + "{padding: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pb-" + strconv.Itoa(i) + "{padding-bottom: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pt-" + strconv.Itoa(i) + "{padding-top: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pl-" + strconv.Itoa(i) + "{padding-left: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pr-" + strconv.Itoa(i) + "{padding-right: " + strconv.Itoa(i) + "vh;}"
-
-		output += NEWLINE + ".m-" + strconv.Itoa(i) + "{margin: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".mb-" + strconv.Itoa(i) + "{margin-bottom: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".mt-" + strconv.Itoa(i) + "{margin-top: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".ml-" + strconv.Itoa(i) + "{margin-left: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".mr-" + strconv.Itoa(i) + "{margin-right: " + strconv.Itoa(i) + "vh;}"
+		output = _gen(output, 9)
 	}
 
 	for i := 6; i < 20; i = i + 2 {
-		output += NEWLINE + ".p-" + strconv.Itoa(i) + "{padding: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pb-" + strconv.Itoa(i) + "{padding-bottom: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pt-" + strconv.Itoa(i) + "{padding-top: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pl-" + strconv.Itoa(i) + "{padding-left: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".pr-" + strconv.Itoa(i) + "{padding-right: " + strconv.Itoa(i) + "vh;}"
-
-		output += NEWLINE + ".m-" + strconv.Itoa(i) + "{margin: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".mb-" + strconv.Itoa(i) + "{margin-bottom: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".mt-" + strconv.Itoa(i) + "{margin-top: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".ml-" + strconv.Itoa(i) + "{margin-left: " + strconv.Itoa(i) + "vh;}"
-		output += NEWLINE + ".mr-" + strconv.Itoa(i) + "{margin-right: " + strconv.Itoa(i) + "vh;}"
+		output = _gen(output, i)
 	}
 
+	for i := 50; i < 101; i = i + 10 {
+		output = _gen(output, i)
+	}
+
+	return output
+}
+
+func _gen(output string, i int) string {
+	output += NEWLINE + ".p-" + strconv.Itoa(i) + "{padding: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".pb-" + strconv.Itoa(i) + "{padding-bottom: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".pt-" + strconv.Itoa(i) + "{padding-top: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".pl-" + strconv.Itoa(i) + "{padding-left: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".pr-" + strconv.Itoa(i) + "{padding-right: " + strconv.Itoa(i) + "vh;}"
+
+	output += NEWLINE + ".m-" + strconv.Itoa(i) + "{margin: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".mb-" + strconv.Itoa(i) + "{margin-bottom: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".mt-" + strconv.Itoa(i) + "{margin-top: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".ml-" + strconv.Itoa(i) + "{margin-left: " + strconv.Itoa(i) + "vh;}"
+	output += NEWLINE + ".mr-" + strconv.Itoa(i) + "{margin-right: " + strconv.Itoa(i) + "vh;}"
 	return output
 }
 
