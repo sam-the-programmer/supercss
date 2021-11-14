@@ -1,0 +1,35 @@
+@import url(./base.css);
+
+/* Bigger Stylesets */
+.box {
+  padding: 3vh;
+  box-shadow: 0 1vh 1vh -1vh hsla(0, 0%, 40%, 0.466);
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+
+  display: flex;
+  justify-content: space-around;
+
+  background-color: var(--red3);
+}
+
+.nav a {
+  padding: 3vh;
+  width: 100%;
+
+  box-shadow: 0 1vh 1vh -1vh hsla(0, 0%, 40%, 0.466);
+
+  background-color: white;
+
+  color: black;
+  text-align: center;
+
+  transition: transform 150ms ease-in;
+}
+
+.nav a:hover {
+  transform: translateY(-1vh);
+}

@@ -1,5 +1,8 @@
-@import url("https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/base.css");
-@import url("https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/colour.css");
-@import url("https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/gradient.css");
-@import url("https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/glow.css");
-@import url("https://cdn.jsdelivr.net/gh/password-classified/supercss/CSS/position.css");
+@import url(./base.css);
+@import url(./bgs.css);
+@import url(./bigger.css);
+@import url(./columns.css);
+@import url(./hover.css);
+@import url(./pad.css);
+@import url(./textcol.css);
+@import url(./utils.css);
