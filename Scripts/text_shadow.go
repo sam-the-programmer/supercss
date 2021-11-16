@@ -18,9 +18,9 @@ func genBgs(output string) string {
 		"purple", "pink", "gray",
 		"black", "brown",
 	} {
-		output += "\n.bg-" + string(v) + "{background-color:" + string(v) + ";}"
+		output += "\n.glow-" + string(v) + "{text-shadow: 0 0 .5ch" + string(v) + ";}"
 		for i := 1; i < 4; i++ {
-			output += "\n.bg-" + string(v) + strconv.Itoa(i) + "{background-color: var(--" + string(v) + strconv.Itoa(i) + ");}"
+			output += "\n.glow-" + string(v) + strconv.Itoa(i) + "{text-shadow: 0 0 .5ch" + string(v) + ";}"
 		}
 	}
 
@@ -42,5 +42,5 @@ func main() {
 
 	output = genBgs(output)
 
-	WriteFile(output, "./CSS/bgs.css")
+	WriteFile(output, "./CSS/glow-text.css")
 }

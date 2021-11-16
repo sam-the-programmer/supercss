@@ -14,11 +14,11 @@ import (
 
 const NEWLINE = "" // Change to "\n" for formatting, leave empty for smaller file sizes.
 
-func float_to_str(f float64) string {
+func floatToStr(f float64) string {
 	return strings.ReplaceAll(fmt.Sprintf("%f", f/10), ".", "-")
 }
 
-func gen_pad_margin(output string) string {
+func genPadMargin(output string) string {
 	output += NEWLINE + ".p-tenth{padding: .1vh;}"
 	output += NEWLINE + ".pb-tenth{padding-bottom: .1vh;}"
 	output += NEWLINE + ".pt-tenth{padding-top: .1vh;}"
@@ -97,7 +97,7 @@ func WriteFile(output string, filename string) {
 func main() {
 	var output string
 
-	output = gen_pad_margin(output)
+	output = genPadMargin(output)
 
 	WriteFile(output, "./CSS/pad.css")
 	output = ""
