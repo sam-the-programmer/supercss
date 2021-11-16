@@ -24,7 +24,7 @@ This is the present file for production, and should be used rather than the deve
 <br>
 
 ## Developing...
-For development, please use this one, which will give you all of the newly pushed changes minutes after release.
+For development, please use this one, which will give you all of the newly pushed changes minutes after commit.
 ```html
 <link rel="stylesheet" href="https://raw.githack.com/The-superCSS-Project/superCSS/master/CSS/super.css">
 ```

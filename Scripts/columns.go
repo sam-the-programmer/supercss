@@ -7,11 +7,11 @@ import (
 	"strings"
 )
 
-func float_to_str(f float64) string {
+func floatToStr(f float64) string {
 	return strings.ReplaceAll(fmt.Sprintf("%f", f/10), ".", "-")
 }
 
-func gen_columns(output string) string {
+func genColumns(output string) string {
 	for i := 1; i < 10; i++ {
 		output += "\n.columns-" + strconv.Itoa(i) + "{columns: " + strconv.Itoa(i) + ";}"
 	}
@@ -30,7 +30,7 @@ func WriteFile(output string, filename string) {
 func main() {
 	var output string
 
-	output = gen_columns(output)
+	output = genColumns(output)
 
 	WriteFile(output, "./CSS/columns.css")
 	output = ""

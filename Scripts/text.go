@@ -9,11 +9,11 @@ import (
 
 const NEWLINE = ""
 
-func float_to_str(f float64) string {
+func floatToStr(f float64) string {
 	return strings.ReplaceAll(fmt.Sprintf("%f", f/10), ".", "-")
 }
 
-func gen_bgs(output string) string {
+func genBgs(output string) string {
 	for _, v := range []string{
 		"red", "orange", "yellow",
 		"green", "lightblue", "blue",
@@ -44,7 +44,7 @@ func main() {
 	output := `@import url('./base.css');
 .t-white{color:white;}.t-white * {color:white;}`
 
-	output = gen_bgs(output)
+	output = genBgs(output)
 
 	WriteFile(output, "./CSS/textcol.css")
 }
