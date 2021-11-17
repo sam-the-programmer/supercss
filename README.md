@@ -1,4 +1,4 @@
-![superCSS Logo](./SVGs/logo.svg)
+![superCSS Logo](./svg/logo.svg)
 
 -------
 
