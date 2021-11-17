@@ -42,7 +42,7 @@ func WriteFile(output string, filename string) {
 
 func main() {
 	output := `@import url('./base.css');
-.tglow-white{text-shadow: 0 0 .5ch white;}.tdrop-whtie{text-shadow: .2ch .2ch 0 white;}`
+.tglow-white{text-shadow: 0 0 .5ch white;}.tdrop-white{text-shadow: .2ch .2ch 0 white;}`
 
 	output = genGlows(output)
 

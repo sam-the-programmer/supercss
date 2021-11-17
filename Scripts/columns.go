@@ -7,13 +7,15 @@ import (
 	"strings"
 )
 
+const newline = ""
+
 func floatToStr(f float64) string {
 	return strings.ReplaceAll(fmt.Sprintf("%f", f/10), ".", "-")
 }
 
 func genColumns(output string) string {
 	for i := 1; i < 10; i++ {
-		output += "\n.columns-" + strconv.Itoa(i) + "{columns: " + strconv.Itoa(i) + ";}"
+		output += newline + ".columns-" + strconv.Itoa(i) + "{columns: " + strconv.Itoa(i) + ";}"
 	}
 	return output
 }
