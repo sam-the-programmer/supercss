@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-const NEWLINE = ""
+const newline = ""
 
 func floatToStr(f float64) string {
 	return strings.ReplaceAll(fmt.Sprintf("%f", f/10), ".", "-")
@@ -20,11 +20,11 @@ func genBgs(output string) string {
 		"purple", "pink", "gray",
 		"black", "brown",
 	} {
-		output += NEWLINE + ".t-" + string(v) + "{color:" + string(v) + ";}.t-" + string(v) + " * {color: " + string(v) + ";}"
-		output += NEWLINE + ".t-" + string(v) + "{color:" + string(v) + ";}.t-" + string(v) + " * {color: " + string(v) + ";}"
+		output += newline + ".t-" + string(v) + "{color:" + string(v) + ";}.t-" + string(v) + " * {color: " + string(v) + ";}"
+		output += newline + ".t-" + string(v) + "{color:" + string(v) + ";}.t-" + string(v) + " * {color: " + string(v) + ";}"
 		for i := 1; i < 4; i++ {
-			output += NEWLINE + ".t-" + string(v) + strconv.Itoa(i) + "{color: var(--" + string(v) + strconv.Itoa(i) + ");}.t-" + string(v) + strconv.Itoa(i) + " * {color: var(--" + string(v) + strconv.Itoa(i) + ");}"
-			output += NEWLINE + ".t-" + string(v) + strconv.Itoa(i) + "{text-shadow: var(--" + string(v) + strconv.Itoa(i) + ");}.t-" + string(v) + strconv.Itoa(i) + " * {color: var(--" + string(v) + strconv.Itoa(i) + ");}"
+			output += newline + ".t-" + string(v) + strconv.Itoa(i) + "{color: var(--" + string(v) + strconv.Itoa(i) + ");}.t-" + string(v) + strconv.Itoa(i) + " * {color: var(--" + string(v) + strconv.Itoa(i) + ");}"
+			output += newline + ".t-" + string(v) + strconv.Itoa(i) + "{text-shadow: var(--" + string(v) + strconv.Itoa(i) + ");}.t-" + string(v) + strconv.Itoa(i) + " * {color: var(--" + string(v) + strconv.Itoa(i) + ");}"
 		}
 	}
 
