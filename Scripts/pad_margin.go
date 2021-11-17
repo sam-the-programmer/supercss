@@ -56,7 +56,7 @@ func genPadMargin(output string) string {
 	output += newline + ".mr-half{margin-right: .5vh;}"
 
 	for i := 0; i < 6; i++ {
-		output = _gen(output, 9)
+		output = _gen(output, i)
 	}
 
 	for i := 6; i < 20; i = i + 2 {
