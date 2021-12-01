@@ -17,7 +17,7 @@
 This is the present file for production, and should be used rather than the developer version, if you do not want the risk of future changes affecting your development.
 <br>
 ```html
-<link rel="stylesheet" href="https://rawcdn.githack.com/The-superCSS-Project/superCSS/c37c5aedf6c67ad1dacc62a85ed5039742aec646/CSS/super.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/the-supercss-project/supercss@0.0.1/css/super.css">
 ```
 
 <br>
@@ -26,7 +26,7 @@ This is the present file for production, and should be used rather than the deve
 ## Developing...
 For development, please use this one, which will give you all of the newly pushed changes minutes after commit.
 ```html
-<link rel="stylesheet" href="https://raw.githack.com/The-superCSS-Project/superCSS/master/CSS/super.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/the-supercss-project/supercss/css/super.css">
 ```
 
 <br>
