@@ -15,7 +15,7 @@ func floatToStr(f float64) string {
 
 func genColumns(output string) string {
 	for i := 1; i < 10; i++ {
-		output += newline + ".columns-" + strconv.Itoa(i) + "{columns: " + strconv.Itoa(i) + ";}"
+		output += newline + ".columns-" + strconv.Itoa(i) + "{column-count: " + strconv.Itoa(i) + ";}"
 	}
 	return output
 }
