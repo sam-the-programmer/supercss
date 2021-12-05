@@ -17,7 +17,7 @@
 This is the present file for production, and should be used rather than the developer version, if you do not want the risk of future changes affecting your development.
 <br>
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/the-supercss-project/supercss@0.0.1/css/super.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/The-superCSS-Project/superCSS@0.0.2/CSS/super.css">
 ```
 
 <br>
