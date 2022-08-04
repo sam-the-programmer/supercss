@@ -1,0 +1,81 @@
+@use "sass:list";
+
+/*----- Variables -----*/
+
+$sizes: 0px, 0.5rem, 1rem, 2rem, 4rem, 8rem, 16rem, 32rem, 64rem;
+
+$border-styles: solid, dotted, dashed, double, groove, ridge, inset, outset;
+$border-widths: 0px, 1px, 2px, 4px, 8px, 16px, 32px, 64px;
+
+$size-names: none, xs, sm, md, lg, xl, 2xl, full;
+$base-sizes: 0px, 0.25rem, 0.5rem, 1rem, 2rem, 4rem, 8rem, 100%;
+
+$shadow-colour: rgba(0, 0, 0, 0.3);
+
+$font-family: "Yu Gothic UI", "Segoe UI", Oxygen, Ubuntu, "Open Sans",
+  "Helvetica Neue", sans-serif;
+
+/*----- Base -----*/
+:root {
+  font-family: $font-family;
+  --sc-bg: #fff;
+  --sc-text: #222;
+}
+
+* {
+  background-color: --sc-bg;
+  color: --sc-text;
+}
+
+html,
+body {
+  @extend .m-0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --sc-bg: #222;
+    --sc-text: #fff;
+  }
+}
+
+/*----- Utilities -----*/
+
+// Padding and margins
+@for $i from 1 through list.length($sizes) {
+  .p-#{$i - 1} {
+    padding: nth($sizes, $i);
+  }
+
+  .m-#{$i - 1} {
+    margin: nth($sizes, $i);
+  }
+}
+
+// Border styles
+@each $i in $border-styles {
+  .b-#{$i} {
+    border-style: $i;
+  }
+}
+
+// Border widths
+@for $i from 1 to list.length($border-widths) {
+  .b-#{$i - 1} {
+    border-width: nth($border-widths, $i);
+  }
+}
+
+@for $i from 1 through list.length($base-sizes) {
+  // Rounded corners
+  .r-#{nth($size-names, $i)} {
+    border-radius: nth($base-sizes, $i);
+  }
+
+  // Shadows
+  .s-#{nth($size-names, $i)} {
+    box-shadow: 0 0.1rem nth($base-sizes, $i) $shadow-colour;
+  }
+}
+
+/*----- Components -----*/
