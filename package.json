@@ -1,0 +1,27 @@
+{
+  "name": "supercss",
+  "version": "1.0.0",
+  "description": "Tailwind-inspired utility CSS framework.",
+  "scripts": {
+    "deploy": "sass ./scss/super.scss:dist/output.css --no-source-map -s compressed",
+    "build": "sass ./scss/super.scss:dist/output.css --no-source-map",
+    "watch": "sass -w ./scss/super.scss:dist/output.css --no-source-map -s compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-supercss-project/supercss.git"
+  },
+  "keywords": [
+    "css",
+    "supercss"
+  ],
+  "author": "the-supercss-project",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-supercss-project/supercss/issues"
+  },
+  "homepage": "https://github.com/the-supercss-project/supercss#readme",
+  "dependencies": {
+    "sass": "^1.54.1"
+  }
+}
