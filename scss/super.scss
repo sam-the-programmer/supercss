@@ -2,13 +2,15 @@
 
 /*----- Variables -----*/
 
-$sizes: 0px, 0.5rem, 1rem, 2rem, 4rem, 8rem, 16rem, 32rem, 64rem;
+$positional-sizes: 0px, 0.5rem, 1rem, 2rem, 4rem, 8rem, 16rem, 32rem, 64rem;
+$base-sizes: 0px, 0.25rem, 0.5rem, 1rem, 2rem, 4rem, 8rem, 100%;
+
+$size-names: none, xs, sm, md, lg, xl, 2xl, full;
+$direction-names: l, r, t, b;
+$direction-names-full: left, right, top, bottom;
 
 $border-styles: solid, dotted, dashed, double, groove, ridge, inset, outset;
 $border-widths: 0px, 1px, 2px, 4px, 8px, 16px, 32px, 64px;
-
-$size-names: none, xs, sm, md, lg, xl, 2xl, full;
-$base-sizes: 0px, 0.25rem, 0.5rem, 1rem, 2rem, 4rem, 8rem, 100%;
 
 $shadow-colour: rgba(0, 0, 0, 0.3);
 
@@ -42,13 +44,23 @@ body {
 /*----- Utilities -----*/
 
 // Padding and margins
-@for $i from 1 through list.length($sizes) {
+@for $i from 1 through list.length($positional-sizes) {
   .p-#{$i - 1} {
-    padding: nth($sizes, $i);
+    padding: nth($positional-sizes, $i);
   }
 
   .m-#{$i - 1} {
-    margin: nth($sizes, $i);
+    margin: nth($positional-sizes, $i);
+  }
+
+  @for $j from 1 to list.length($direction-names) {
+    .p#{nth($direction-names, $j)}-#{$i - 1} {
+      padding-#{nth($direction-names-full, $j)}: nth($positional-sizes, $i);
+    }
+
+    .m#{nth($direction-names, $j)}-#{$i - 1} {
+      margin-#{nth($direction-names-full, $j)}: nth($positional-sizes, $i);
+    }
   }
 }
 
