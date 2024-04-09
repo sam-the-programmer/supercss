@@ -1,4 +1,4 @@
-![Logo](svg/logo.svg)
+<img src="svg/image.png" width="300" />
 
 SuperCSS is a utility CSS framework for tailwind-like design and speed of development.
 
